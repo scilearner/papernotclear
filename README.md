@@ -2,11 +2,11 @@
 
 蜻蜓点论文， paperskim,   deep learning papers. the table of content of all my videos
 
-[B站主页](https://space.bilibili.com/17529417/video)   [Youtube(中文视频CN)](https://www.youtube.com/channel/UCwyMgDylnGQ-Wf4N00RmWJw)  [Youtube(English)](https://www.youtube.com/watch?v=UyMknBNf0H8&list=PLkOzpHMrl5U99bPXs2VEJ40dMyKbOhdA4)
+[B站Think不Clear](https://space.bilibili.com/17529417/video)   [Youtube(PaperThinkNotClear)](https://www.youtube.com/channel/UCwyMgDylnGQ-Wf4N00RmWJw)  
 
-[幻灯片 Baidu Pan](https://pan.baidu.com/s/1KOf64bMRs-mxTEMP3hnDsw%207b4q)    [幻灯片 Slides on OneDrive](https://1drv.ms/u/s!AgCFFlwzHuH8jFTeW-hXFpY9jEs3?e=JqmxFI) （还有2、3个月有效期）
+[幻灯片 Slides on OneDrive](https://1drv.ms/u/s!AgCFFlwzHuH8jFTeW-hXFpY9jEs3?e=JqmxFI) （还有不到1个月有效期？）
 
-百度网盘（附2维码，但可能并不如直接用链接方便） 链接：[https://pan.baidu.com/s/1fTQnIGhQ3hcvjlDrM4NNFA](https://pan.baidu.com/s/1fTQnIGhQ3hcvjlDrM4NNFA)
+百度网盘 baidu pan（附2维码，但可能并不如直接用链接方便） 链接：[https://pan.baidu.com/s/1fTQnIGhQ3hcvjlDrM4NNFA](https://pan.baidu.com/s/1fTQnIGhQ3hcvjlDrM4NNFA)
 提取码：ks3c
 
 
@@ -15,9 +15,40 @@
 
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号             |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
-| | | | |  | 1 |
-| | | | |  | 1 |
-| | | | |  | 1 |
+| | | | |  | 199 |
+| | | | |  | 198 |
+| | | | |  | 197 |
+| | | | |  | 196 |
+| | | | |  | 195 |
+| | | | |  | 194 |
+| | | | |  | 193 |
+| | | | |  | 192 |
+| | | | |  | 191 |
+| | | | |  | 190 |
+| | | | |  | 189 |
+| | | | |  | 188 |
+| | | | |  | 187 |
+| | | | |  | 186 |
+| | | | |  | 185 |
+| | | | |  | 184 |
+| | | | |  | 183 |
+| | | | |  | 182 |
+| | | | |  | 181 |
+| | | | |  | 180 |
+| | | | |  | 179 |
+| | | | |  | 178 |
+| | | | |  | 177 |
+| | | | |  | 176 |
+| | | | |  | 175 |
+| | | | |  | 174 |
+| | | | |  | 173 |
+| | | | |  | 172 |
+| | | | |  | 171 |
+| | | | |  | 170 |
+| | | | |  | 169 |
+| | | | |  | 168 |
+| [FixMatch: Semi-Supervised Learning with Consistency and Confidence](https://www.bilibili.com/video/BV1cf4y1L744/) | | | |  | 167 |
+| [ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring ](https://www.bilibili.com/video/BV17w411R7Pv/) | | | |  | 166 |
 | [MiCE: Mixture of Contrastive Experts for Unsupervised Image Clustering](https://www.bilibili.com/video/BV1sq4y1X7nT) | | | |  | 165 |
 | [Learn Representation via Information Maximizing Self-Augmented Training](https://www.bilibili.com/video/BV1ZM4y1K7TN) | | | |  | 164 |
 | [Supporting Clustering with Contrastive Learning](https://www.bilibili.com/video/BV1mM4y1K7BH) | | | |  | 163 |
@@ -33,7 +64,7 @@
 | [Feature Projection for Improved Text Classification](https://www.bilibili.com/video/BV17U4y1b7Ki) | | | |  | 153 |
 | [Improve Joint Train of Inference Net and Structure Predict EnergyNet](https://www.bilibili.com/video/BV12N411o7HU) | | | |  | 152 |
 | [BertGCN: Transductive Text Classification by Combining GCN and Bert](https://www.bilibili.com/video/BV1QK4y1d7Te) | | | |  | 151 |
-| [The Authors Matter Understand Mitigate Implicit Bias in 文本分类](https://www.bilibili.com/video/BV17Q4y1o7dQ) | | | |  | 150 |
+| [The Authors Matter Understand Mitigate Implicit Bias in text classification](https://www.bilibili.com/video/BV17Q4y1o7dQ) | | | |  | 150 |
 | [Learning Approximate Inference Networks for Structured Prediction](https://www.bilibili.com/video/BV1zA411G7dg) | | | |  | 149 |
 | [End-to-End Learning for Structured Prediction Energy Networks](https://www.bilibili.com/video/BV1iy4y1p7jn) | | | |  | 148 |
 | [Revisiting Unsupervised Relation Extraction](https://www.bilibili.com/video/BV19y4y1s7Ws) | | | |  | 147 |
