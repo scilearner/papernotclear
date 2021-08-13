@@ -45,8 +45,8 @@
 | | | | |  | 172 |
 | | | | |  | 171 |
 | | | | |  | 170 |
-| | | | |  | 169 |
-| | | | |  | 168 |
+| [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://www.bilibili.com/video/BV1hw411R7JY) | | | |  | 169 |
+| [Rethink Image Mixture for Unsupervised Visual Representation Learning](https://www.bilibili.com/video/BV1wf4y1L7A9) | | | |  | 168 |
 | [FixMatch: Semi-Supervised Learning with Consistency and Confidence](https://www.bilibili.com/video/BV1cf4y1L744/) | | | |  | 167 |
 | [ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring ](https://www.bilibili.com/video/BV17w411R7Pv/) | | | |  | 166 |
 | [MiCE: Mixture of Contrastive Experts for Unsupervised Image Clustering](https://www.bilibili.com/video/BV1sq4y1X7nT) | | | |  | 165 |
