@@ -40,11 +40,12 @@
 | | | | |  | 177 |
 | | | | |  | 176 |
 | | | | |  | 175 |
-| | | | |  | 174 |
-| | | | |  | 173 |
-| | | | |  | 172 |
-| | | | |  | 171 |
-| | | | |  | 170 |
+| [VAEBM: Variational Autoencoders and Energy-based Models](https://www.bilibili.com/video/BV1gg411c7Pz/) | | | |  | 174 |
+| [On Separability of Self-Supervised Representations](https://www.bilibili.com/video/BV1Vf4y1A7ee/) | | | |  | 173 |
+| [Revisiting Knowledge Distillation via Label Smoothing Regularization](https://www.bilibili.com/video/BV1L3411q7wg/) | | | |  | 172 |
+| [Regularizing Class-wise Predictions via Self-knowledge Distillation](https://www.bilibili.com/video/BV1uh411s7qZ/) | | | |  | 171 |
+| [Be Your Own Teacher: Improve CNN via Self Distillation](https://www.bilibili.com/video/BV1Xq4y1U7Vs/) | | | |  | 170 |
+| 以下的B站链接全部失效， 被我删了 | | | | |  |
 | [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://www.bilibili.com/video/BV1hw411R7JY) | | | |  | 169 |
 | [Rethink Image Mixture for Unsupervised Visual Representation Learning](https://www.bilibili.com/video/BV1wf4y1L7A9) | | | |  | 168 |
 | [FixMatch: Semi-Supervised Learning with Consistency and Confidence](https://www.bilibili.com/video/BV1cf4y1L744/) | | | |  | 167 |
