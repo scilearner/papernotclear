@@ -214,7 +214,7 @@
 | Imagenet-Trained CNNS are Biased Towards Texture(ICLR2018)   | [Bilibili](https://www.bilibili.com/video/BV1yv411y7oY)  | [Youtube](https://www.youtube.com/watch?v=2yMSN2YQWRc) | [Arxiv](https://arxiv.org/abs/1811.12231) |      | 4 |
 | Momentum Contrast for Unsupervised Visual Representation Learning(CVPR2020) | [Bilibili](https://www.bilibili.com/video/BV14K4y1Y7S7)  | [Youtube](https://www.youtube.com/watch?v=bEyc49jpKEE) | [Arxiv](https://arxiv.org/abs/1911.05722) |      | 3         |
 | Mixup: Beyond Empirical Risk Minimization(ICLR2018)          | [Bilibili](https://www.bilibili.com/video/BV14K4y1Y7S7)  | [Youtube](https://www.youtube.com/watch?v=w7E5QRqs9SI) | [Arxiv](https://arxiv.org/abs/1710.09412) |      | 2         |
-| Your Classifier is secretely an Energy Based Model(ICLR 2019) | [Bilibili](https://www.bilibili.com/video/BV19v411y7xd)  | [Youtube](https://www.youtube.com/watch?v=C60f6mVhKGY) | [Arxiv](https://arxiv.org/abs/1912.03263) |      | 1         |
+| Your Classifier is secretely an Energy Based Model(ICLR 2019) | [Bilibili](https://www.bilibili.com/video/BV19v411y7xd)  | [Youtube](https://www.youtube.com/watch?v=C60f6mVhKGY) | [Arxiv](https://arxiv.org/abs/1912.03263) |      | 1（2020-08-19） |
 
 
 # Paper List
