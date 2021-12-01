@@ -36,12 +36,12 @@
 | | | | |  | 183 |
 | | | | |  | 182 |
 | | | | |  | 181 |
-| | | | |  | 180 |
-| | | | |  | 179 |
-| | | | |  | 178 |
-| | | | |  | 177 |
-| | | | |  | 176 |
-| | | | |  | 175 |
+| [Active Learning at the ImageNet Scale](https://www.bilibili.com/video/BV1kY411s7KY) | | | |  | 180 |
+| [Towards Understand Generative Capability Adversarial Robust Classifier](https://www.bilibili.com/video/BV1bQ4y1i7SY) | | | |  | 179 |
+| [FlexMatch Semi-Supervised Learning with Curriculum Pseudo Labeling](https://www.bilibili.com/video/BV1AR4y1b7dY) | | | |  | 178 |
+| [Learning Energy-Based Models by Diffusion Recovery Likelihood](https://www.bilibili.com/video/BV11Q4y1S74k) | | | |  | 177 |
+| [Self-Knowledge Distillation with Progressive Refinement of Targets](https://www.bilibili.com/video/BV1Dh411J7JZ) | | | |  | 176 |
+| [AEDA: An Easier Data Augmentation Technique for Text Classification](https://www.bilibili.com/video/BV1bM4y137iA) | | | |  | 175 |
 | [VAEBM: Variational Autoencoders and Energy-based Models](https://www.bilibili.com/video/BV1gg411c7Pz/) | | | |  | 174 |
 | [On Separability of Self-Supervised Representations](https://www.bilibili.com/video/BV1Vf4y1A7ee/) | | | |  | 173 |
 | [Revisiting Knowledge Distillation via Label Smoothing Regularization](https://www.bilibili.com/video/BV1L3411q7wg/) | | | |  | 172 |
@@ -100,7 +100,7 @@
 | [Unsupervised Clustering of Seismic Signals 地震波 using autoencoders](https://www.bilibili.com/video/BV1YX4y137kD) | | | |  | 120 |
 | [Towards the first adversarially robust neural network model on MNIST](https://www.bilibili.com/video/BV1K5411K7rQ) | | | |  | 119 |
 | [PGD对抗训练 Towards Deep Learning Models Resistant to Adversarial Attacks](https://www.bilibili.com/video/BV1hf4y147f9) | | | |  | 118 |
-| [Denoising Diffusion Probabilistic Models](https://www.bilibili.com/video/BV1k5411N7WW) | | | |  | 117 |
+| [Denoising Diffusion Probabilistic Models](https://www.bilibili.com/video/BV1Sq4y1G7DF) | | | |  | 117 |
 | [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://www.bilibili.com/video/BV1EK4y1J7nF) | | | |  | 116 |
 | [Variational Inference with Normalizing Flows](https://www.bilibili.com/video/BV1sf4y167pQ) | | | |  | 115 |
 | [CutMix Regularization Strategy with Localizable Features](https://www.bilibili.com/video/BV1XV411e7kG) | | | |  | 114 |
@@ -128,7 +128,7 @@
 | [Super-Convergence: Very Fast Training of NN use large LR](https://www.bilibili.com/video/BV1VT4y1P77X) | | | | | 92 |
 | [Contrastive Clustering](https://www.bilibili.com/video/BV1np4y1W7Lv) | | | | | 91 |
 | [Graph Contrastive Learning with Augmentations NIPS 2020](https://arxiv.org/abs/2010.13902) / [Graph Contrastive Learning with Adaptive Augmentation WWW 2021](https://arxiv.org/pdf/2010.14945)/ [GCC: Graph Contrastive Coding for Graph Neural Network ... KDD 2021](https://arxiv.org/abs/2006.09963) | [GNN and Contrastive Learning](https://www.bilibili.com/video/BV12p4y1x7pY) | | | | 90 |
-| [Contrastive Representation Distillation](https://www.bilibili.com/video/BV1CX4y1K7Fa) | | | | | 89 |
+| [Contrastive Representation Distillation](https://www.bilibili.com/video/BV1x44y1y7rd) | | | | | 89 |
 | [Spectral Norm Regularization for Improving the Generalizability of NN](https://www.bilibili.com/video/BV1pK411u7AW) | | | | | 88 |
 | [UDA: Unsupervised Data Augmentation for Consistency Training](https://www.bilibili.com/video/BV1b54y1s7gQ) | | | | | 87 |
 | [Simplify the Usage of Lexicon in Chinese NER](https://www.bilibili.com/video/BV1Xi4y1F75P) | | | | | 86 |
@@ -183,7 +183,7 @@
 | [An Image is Worth 16x16 Words Transformers for Image Recognition at Scale](https://www.bilibili.com/video/BV1A541177m9) |                                                          |                                                        |                                           |      | 37        |
 | [Training independent subnetworks for robust prediction](https://www.bilibili.com/video/BV1EV41127RN) |                                                          |                                                        |                                           |      | 36        |
 | [Active Learning for CNNs: A Core-Set Approach](https://www.bilibili.com/video/BV1x54y1k77u) |                                                          |                                                        |                                           |      | 35        |
-| [SimCLR A Simple Framework for Contrastive Learning of Visual Representation](https://www.bilibili.com/video/BV1Az4y1f75m) |                                                          |                                                        |                                           |      | 34        |
+| [SimCLR A Simple Framework for Contrastive Learning Visual Representation](https://www.bilibili.com/video/BV16y4y1L75p) |                                                          |                                                        |                                           |      | 34        |
 | [UNITER: UNiversal Image-TExt Representation Learning](https://www.bilibili.com/video/BV1sp4y1Y73J) |                                                          |                                                        |                                           |      | 33      |
 | [Image Synthesis with a Single (Robust) Classifier](https://www.bilibili.com/video/BV1XD4y1R7uY) |                                                          |                                                        |                                           |      | 32        |
 | [Set Transformer A Framework for Attention-based Permutation-Invariant NN](https://www.bilibili.com/video/BV1Lh411X7Ev) |                                                          |                                                        |                                           |      | 31        |
