@@ -17,7 +17,17 @@
 
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
-|CoMatch: Semi-supervised Learning with Contrastive Graph Regularization | | | |  | 190 |
+|      |         |        |      |     |        |
+|      |         |        |      |     |        |
+|      |         |        |      |     |        |
+|      |         |        |      |     |        |
+|      |         |        |      |     |        |
+|      |         |        |      |     |        |
+|      |         |        |      |     |        |
+|      |         |        |      |     |        |
+| [DeCLUTR Contrastive Learning for Unsupervised Textual Representation](https://www.bilibili.com/video/BV1WL4y1M7P9 "【读论文】192 DeCLUTR Contrastive Learning for Unsupervised Textual Representation")     |         |        |      |     |        |
+| [Revisiting the Transferability of Supervised Pretraining via an MLP](https://www.bilibili.com/video/BV1wb4y1p7bL "【读论文】191 Revisiting the Transferability of Supervised Pretraining via an MLP")    |         |        |      |     |        |
+| CoMatch: Semi-supervised Learning with Contrastive Graph Regularization | | | |  | 190 |
 | Event Extraction by Answering (Almost) Natural Questions | | | |  | 189 |
 | You never cluster Alone | | | |  | 188 |
 | Complement Objective Training | | | |  | 187 |
@@ -117,7 +127,7 @@
 | Rethinking Softmax Cross-Entropy Loss for Adversarial Robustness | | | | | 93 |
 | Super-Convergence: Very Fast Training of NN use large LR | | | | | 92 |
 | Contrastive Clustering | | | | | 91 |
-| Graph Contrastive Learning with Augmentations NIPS 2020 / [Graph Contrastive Learning with Adaptive Augmentation WWW 2021 [GCC: Graph Contrastive Coding for Graph Neural Network ... KDD 2021 | [GNN and Contrastive Learning | | | | 90 |
+| Graph Contrastive Learning with Augmentations NIPS 2020 / Graph Contrastive Learning with Adaptive Augmentation WWW 2021 GCC: Graph Contrastive Coding for Graph Neural Network ... KDD 2021 | GNN and Contrastive Learning | | | | 90 |
 | Contrastive Representation Distillation | | | | | 89 |
 | Spectral Norm Regularization for Improving the Generalizability of NN | | | | | 88 |
 | UDA: Unsupervised Data Augmentation for Consistency Training | | | | | 87 |
@@ -207,6 +217,20 @@
 | Momentum Contrast for Unsupervised Visual Representation Learning(CVPR2020) |   |  |  | | 3    |
 | Mixup: Beyond Empirical Risk Minimization(ICLR2018)|   |  |  | | 2    |
 | Your Classifier is secretely an Energy Based Model(ICLR 2019) |   |  |  | | 1（2020-08-19） |
+
+
+
+# 代码
+
+
+
+|  视频名    |  Bilibili    |   Youtube   | github |   序号   |
+| ---- | ---- | ---- | ---- | ---- |
+|  |  |  |  |  |
+| [【倒代码】FlexMatch Semi-Supervised Learning with Curriculum Pseudo Labeling](https://www.bilibili.com/video/BV1PS4y1S71Z "【倒代码】FlexMatch Semi-Supervised Learning with Curriculum Pseudo Labeling") |      |      |      | 3 |
+| [FlexMatch Semi-Supervised Learning with Curriculum Pseudo Labeling](https://www.bilibili.com/video/BV11Y411E7BE) |      |      |      | 2 |
+| [【过代码】SCAN: Learning to Classify Images without Labels](https://www.bilibili.com/video/BV1z34y1q7U2 "【过代码】SCAN: Learning to Classify Images without Labels") |      |      |      | 1 |
+
 
 
 # Paper List
