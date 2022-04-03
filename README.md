@@ -4,9 +4,9 @@
 
 [B站Think不Clear](https://space.bilibili.com/17529417/video)   [Youtube(PaperThinkNotClear)](https://www.youtube.com/channel/UCwyMgDylnGQ-Wf4N00RmWJw)  
 
-[西瓜视频](https://www.ixigua.com/home/110050360886) 但标题字数限制，我都改成中文名了， 所以， 我都没法搜索
+[西瓜视频](https://www.ixigua.com/home/110050360886) 但标题字数限制，我都改成中文名了， 所以， 我自己都没法搜索到目标视频
 
-[幻灯片 Slides on OneDrive](https://1drv.ms/u/s!AgCFFlwzHuH8jFTeW-hXFpY9jEs3?e=JqmxFI) （还有不到1个月有效期？）
+[幻灯片 Slides on OneDrive](https://1drv.ms/u/s!AgCFFlwzHuH8jFTeW-hXFpY9jEs3?e=JqmxFI)  没有同步， 因为同时存 百度和onedrive， 怎么存呢？就懒得管了
 
 百度网盘 baidu pan（附2维码，但可能并不如直接用链接方便） 链接：[https://pan.baidu.com/s/1fTQnIGhQ3hcvjlDrM4NNFA](https://pan.baidu.com/s/1fTQnIGhQ3hcvjlDrM4NNFA)
 提取码：ks3c
