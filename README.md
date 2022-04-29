@@ -25,11 +25,11 @@
 |      |         |        |      |     |        |
 |      |         |        |      |     |        |
 |      |         |        |      |     |        |
-|      |         |        |      |     |        |
-|      |         |        |      |     |        |
-|      |         |        |      |     |        |
-| [DeCLUTR Contrastive Learning for Unsupervised Textual Representation](https://www.bilibili.com/video/BV1WL4y1M7P9 "【读论文】192 DeCLUTR Contrastive Learning for Unsupervised Textual Representation")     |         |        |      |     |        |
-| [Revisiting the Transferability of Supervised Pretraining via an MLP](https://www.bilibili.com/video/BV1wb4y1p7bL "【读论文】191 Revisiting the Transferability of Supervised Pretraining via an MLP")    |         |        |      |     |        |
+| [Visual Prompting: Modifying Pixel Space to Adapt Pre-trained Models](https://www.bilibili.com/video/BV1aY4y1a7K1 "【读论文】195 Visual Prompting: Modifying Pixel Space to Adapt Pre-trained Models")     |         |        |      |     |   195     |
+| [SPICE Semantic Pseudo-Labeling for Image Clustering](https://www.bilibili.com/video/BV1dF411u7RF "【读论文】194 SPICE Semantic Pseudo-Labeling for Image Clustering")     |         |        |      |     |      194  |
+| [Sharpness-Aware Minimization for Efficiently Improving Generalization](https://www.bilibili.com/video/BV1QS4y127tf "【读论文】193 Sharpness-Aware Minimization for Efficiently Improving Generalization")     |         |        |      |     |     194   |
+| [DeCLUTR Contrastive Learning for Unsupervised Textual Representation](https://www.bilibili.com/video/BV1WL4y1M7P9 "【读论文】192 DeCLUTR Contrastive Learning for Unsupervised Textual Representation")     |         |        |      |     |  192      |
+| [Revisiting the Transferability of Supervised Pretraining via an MLP](https://www.bilibili.com/video/BV1wb4y1p7bL "【读论文】191 Revisiting the Transferability of Supervised Pretraining via an MLP")    |         |        |      |     |   191     |
 | CoMatch: Semi-supervised Learning with Contrastive Graph Regularization | | | |  | 190 |
 | Event Extraction by Answering (Almost) Natural Questions | | | |  | 189 |
 | You never cluster Alone | | | |  | 188 |
