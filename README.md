@@ -8,12 +8,12 @@
 
 [幻灯片 Slides on OneDrive](https://1drv.ms/u/s!AgCFFlwzHuH8jFTeW-hXFpY9jEs3?e=JqmxFI)  没有同步， 因为同时存 百度和onedrive， 怎么存呢？就懒得管了
 
-百度网盘 baidu pan 
+百度网盘 baidu pan 我搞错了
 
-新链接 [https://pan.baidu.com/s/1e3lh08SE6mKg3E7loktQUA](https://pan.baidu.com/s/1e3lh08SE6mKg3E7loktQUA)
+链接 [https://pan.baidu.com/s/1e3lh08SE6mKg3E7loktQUA](https://pan.baidu.com/s/1e3lh08SE6mKg3E7loktQUA)
 提取码：e0gn
 
-过期文件夹 链接：[https://pan.baidu.com/s/1fTQnIGhQ3hcvjlDrM4NNFA](https://pan.baidu.com/s/1fTQnIGhQ3hcvjlDrM4NNFA)
+同样可用 链接：[https://pan.baidu.com/s/1fTQnIGhQ3hcvjlDrM4NNFA](https://pan.baidu.com/s/1fTQnIGhQ3hcvjlDrM4NNFA)
 提取码：ks3c
 
 
