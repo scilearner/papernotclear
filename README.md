@@ -23,7 +23,7 @@
 |      |         |        |      |     |        |
 |      |         |        |      |     |        |
 |      |         |        |      |     |        |
-|      |         |        |      |     |        |
+| [The Effects of Regularization and Data Augmentation are Class Dependent](https://www.bilibili.com/video/BV155411271P "【读论文】197 The Effects of Regularization and Data Augmentation are Class Dependent")     |         |        |      |  197  |        |
 | [Tradeoffs in Data Augmentation An Empirical Study](https://www.bilibili.com/video/BV1U3411K7is/)     |         |        |      |     |      196  |
 | [Visual Prompting: Modifying Pixel Space to Adapt Pre-trained Models](https://www.bilibili.com/video/BV1aY4y1a7K1 "【读论文】195 Visual Prompting: Modifying Pixel Space to Adapt Pre-trained Models")     |         |        |      |     |   195     |
 | [SPICE Semantic Pseudo-Labeling for Image Clustering](https://www.bilibili.com/video/BV1dF411u7RF "【读论文】194 SPICE Semantic Pseudo-Labeling for Image Clustering")     |         |        |      |     |      194  |
