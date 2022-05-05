@@ -21,9 +21,9 @@
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
 |      |         |        |      |     |        |
-|      |         |        |      |     |        |
-|      |         |        |      |     |        |
-| [The Effects of Regularization and Data Augmentation are Class Dependent](https://www.bilibili.com/video/BV155411271P "【读论文】197 The Effects of Regularization and Data Augmentation are Class Dependent")     |         |        |      |  197  |        |
+| [Efficient Sharpness-aware Minimization for Improve Neural Networks](https://www.bilibili.com/video/BV1fT4y1r7k8 "【读论文】198 Efficient Sharpness-aware Minimization for Improve Neural Networks")     |         |        |      |     |   198     |
+| [Improved Contrastive Divergence Training of Energy-Based Model](https://www.bilibili.com/video/BV1UY4y167oV "【读论文】199 Improved Contrastive Divergence Training of Energy-Based Model")     |         |        |      |     |  199      |
+| [The Effects of Regularization and Data Augmentation are Class Dependent](https://www.bilibili.com/video/BV155411271P "【读论文】197 The Effects of Regularization and Data Augmentation are Class Dependent")     |         |        |      |    |   197     |
 | [Tradeoffs in Data Augmentation An Empirical Study](https://www.bilibili.com/video/BV1U3411K7is/)     |         |        |      |     |      196  |
 | [Visual Prompting: Modifying Pixel Space to Adapt Pre-trained Models](https://www.bilibili.com/video/BV1aY4y1a7K1 "【读论文】195 Visual Prompting: Modifying Pixel Space to Adapt Pre-trained Models")     |         |        |      |     |   195     |
 | [SPICE Semantic Pseudo-Labeling for Image Clustering](https://www.bilibili.com/video/BV1dF411u7RF "【读论文】194 SPICE Semantic Pseudo-Labeling for Image Clustering")     |         |        |      |     |      194  |
