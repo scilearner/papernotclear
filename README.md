@@ -20,7 +20,7 @@
 
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
-|      |         |        |      |     |        |
+| [Crafting Better Contrastive Views for Siamese Representation Learning](https://www.bilibili.com/video/BV1N3411N79a/)     |         |        |      |     |    200    |
 | [Efficient Sharpness-aware Minimization for Improve Neural Networks](https://www.bilibili.com/video/BV1fT4y1r7k8 "【读论文】198 Efficient Sharpness-aware Minimization for Improve Neural Networks")     |         |        |      |     |   198     |
 | [Improved Contrastive Divergence Training of Energy-Based Model](https://www.bilibili.com/video/BV1UY4y167oV "【读论文】199 Improved Contrastive Divergence Training of Energy-Based Model")     |         |        |      |     |  199      |
 | [The Effects of Regularization and Data Augmentation are Class Dependent](https://www.bilibili.com/video/BV155411271P "【读论文】197 The Effects of Regularization and Data Augmentation are Class Dependent")     |         |        |      |    |   197     |
