@@ -2,11 +2,19 @@
 
 蜻蜓点论文， paperskim,   deep learning papers. the table of content of all my videos
 
+- 方法类的论文， 不保证方法理解的正确和准确
+- 架构和方法类的论文， 不深挖背后的数学思想
+- 实验部分 或 实验类的论文， 基本上简单翻译
+
+
+如有问题， 欢迎提问；如有质疑， 欢迎右上（手机好像是左下和左上？）
+
+
 [B站Think不Clear](https://space.bilibili.com/17529417/video)   [Youtube(PaperThinkNotClear)](https://www.youtube.com/channel/UCwyMgDylnGQ-Wf4N00RmWJw)  
 
-[西瓜视频](https://www.ixigua.com/home/110050360886) 但标题字数限制，我都改成中文名了， 所以， 我自己都没法搜索到目标视频
+[西瓜视频](https://www.ixigua.com/home/110050360886)  因标题字数限制，我基本都改成中文名了， 所以， 我自己都没法搜索到目标视频
 
-[幻灯片 Slides on OneDrive](https://1drv.ms/u/s!AgCFFlwzHuH8jFTeW-hXFpY9jEs3?e=JqmxFI)  没有同步， 因为同时存 百度和onedrive， 怎么存呢？就懒得管了
+[幻灯片 Slides on OneDrive](https://1drv.ms/u/s!AgCFFlwzHuH8jFTeW-hXFpY9jEs3?e=JqmxFI)  没有同步， 因为需要同时存 百度和onedrive， 怎么存呢？ 只能是懒得管了
 
 百度网盘 baidu pan 我搞错了
 
@@ -20,6 +28,19 @@
 
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| [RandAugument and Cutout](https://www.bilibili.com/video/BV1V5411d7D3"【凑个数】201 RandAugument and Cutout") | | | | | 201 |
 | [Crafting Better Contrastive Views for Siamese Representation Learning](https://www.bilibili.com/video/BV1N3411N79a/)     |         |        |      |     |    200    |
 | [Efficient Sharpness-aware Minimization for Improve Neural Networks](https://www.bilibili.com/video/BV1fT4y1r7k8 "【读论文】198 Efficient Sharpness-aware Minimization for Improve Neural Networks")     |         |        |      |     |   198     |
 | [Improved Contrastive Divergence Training of Energy-Based Model](https://www.bilibili.com/video/BV1UY4y167oV "【读论文】199 Improved Contrastive Divergence Training of Energy-Based Model")     |         |        |      |     |  199      |
@@ -30,16 +51,16 @@
 | [Sharpness-Aware Minimization for Efficiently Improving Generalization](https://www.bilibili.com/video/BV1QS4y127tf "【读论文】193 Sharpness-Aware Minimization for Efficiently Improving Generalization")     |         |        |      |     |     194   |
 | [DeCLUTR Contrastive Learning for Unsupervised Textual Representation](https://www.bilibili.com/video/BV1WL4y1M7P9 "【读论文】192 DeCLUTR Contrastive Learning for Unsupervised Textual Representation")     |         |        |      |     |  192      |
 | [Revisiting the Transferability of Supervised Pretraining via an MLP](https://www.bilibili.com/video/BV1wb4y1p7bL "【读论文】191 Revisiting the Transferability of Supervised Pretraining via an MLP")    |         |        |      |     |   191     |
-| CoMatch: Semi-supervised Learning with Contrastive Graph Regularization | | | |  | 190 |
-| Event Extraction by Answering (Almost) Natural Questions | | | |  | 189 |
-| You never cluster Alone | | | |  | 188 |
-| Complement Objective Training | | | |  | 187 |
-| Well-classified Examples are Underestimated in Classification with DNN | | | |  | 186 |
-| When Does Label Smoothing Help | | | |  | 185 |
-| SEED: Self-supervised Distillation For Visual Representation| | | |  | 184 |
-| MixText: Hidden Space MixUp for Semi-Supervised Text Classification | | | |  | 183 |
-| Nearest Neighbor Matching for Deep Clustering | | | |  | 182 |
-| Conditional Self-Supervised Learning for Few-Shot Classification | | | |  | 181 |
+| [CoMatch: Semi-supervised Learning with Contrastive Graph Regularization](https://www.bilibili.com/video/BV1544y1T73k "【读论文】190 CoMatch: Semi-supervised Learning with Contrastive Graph Regularization") | | | |  | 190 |
+| [Event Extraction by Answering (Almost) Natural Questions](https://www.bilibili.com/video/BV1RY411J7B4 "【读论文】189 Event Extraction by Answering (Almost) Natural Questions") | | | |  | 189 |
+| [You never cluster Alone](https://www.bilibili.com/video/BV1cY41137Z1 "【读论文】188 You never cluster Alone")   | [You Never Cluster Alone 1.1](https://www.bilibili.com/video/BV1yi4y1C7SU "【读论文】You Never Cluster Alone 1.1") | | |  | 188 |
+| [Complement Objective Training](https://www.bilibili.com/video/BV18S4y1y7Vx "【读论文】187 Complement Objective Training") | | | |  | 187 |
+| [Well-classified Examples are Underestimated in Classification with DNN](https://www.bilibili.com/video/BV1hS4y1y7zo "【读论文】186 Well-classified Examples are Underestimated in Classification with DNN") | | | |  | 186 |
+| [When Does Label Smoothing Help](https://www.bilibili.com/video/BV1Zu411273E "【读论文】185 When Does Label Smoothing Help") | | | |  | 185 |
+| [SEED: Self-supervised Distillation For Visual Representation](https://www.bilibili.com/video/BV1bb4y1J7T8 "【读论文】184 SEED: Self-supervised Distillation For Visual Representation")| | | |  | 184 |
+| [MixText: Hidden Space MixUp for Semi-Supervised Text Classification](https://www.bilibili.com/video/BV1oS4y1f7UB "【读论文】183 MixText: Hidden Space MixUp for Semi-Supervised Text Classification") | | | |  | 183 |
+| [Nearest Neighbor Matching for Deep Clustering](https://www.bilibili.com/video/BV15Q4y1Y7p9 "【读论文】182 Nearest Neighbor Matching for Deep Clustering") | | | |  | 182 |
+| [Conditional Self-Supervised Learning for Few-Shot Classification](https://www.bilibili.com/video/BV1544y1J76p "Conditional Self-Supervised Learning for Few-Shot Classification") | | | |  | 181 |
 | [Active Learning at the ImageNet Scale](https://www.bilibili.com/video/BV1kY411s7KY) | | | |  | 180 |
 | [Towards Understand Generative Capability Adversarial Robust Classifier](https://www.bilibili.com/video/BV1bQ4y1i7SY) | | | |  | 179 |
 | [FlexMatch Semi-Supervised Learning with Curriculum Pseudo Labeling](https://www.bilibili.com/video/BV1AR4y1b7dY) | | | |  | 178 |
@@ -51,6 +72,7 @@
 | [Revisiting Knowledge Distillation via Label Smoothing Regularization](https://www.bilibili.com/video/BV1L3411q7wg/) | | | |  | 172 |
 | [Regularizing Class-wise Predictions via Self-knowledge Distillation](https://www.bilibili.com/video/BV1uh411s7qZ/) | | | |  | 171 |
 | [Be Your Own Teacher: Improve CNN via Self Distillation](https://www.bilibili.com/video/BV1Xq4y1U7Vs/) | | | |  | 170 |
+| 以下删除过   | | | | | |
 | Bayesian Deep Learning and a Probabilistic Perspective of Generalization | | | |  | 169 |
 | Rethink Image Mixture for Unsupervised Visual Representation Learning | | | |  | 168 |
 | FixMatch: Semi-Supervised Learning with Consistency and Confidence | | | |  | 167 |
@@ -103,7 +125,7 @@
 | Unsupervised Clustering of Seismic Signals 地震波 using autoencoders | | | |  | 120 |
 | Towards the first adversarially robust neural network model on MNIST | | | |  | 119 |
 | PGD对抗训练 Towards Deep Learning Models Resistant to Adversarial Attacks | | | |  | 118 |
-| Denoising Diffusion Probabilistic Models | | | |  | 117 |
+| [Denoising Diffusion Probabilistic Models](https://www.bilibili.com/video/BV1Sq4y1G7DF "【读论文】Denoising Diffusion Probabilistic Models") | | | |  | 117 |
 | Deep Unsupervised Learning using Nonequilibrium Thermodynamics | | | |  | 116 |
 | Variational Inference with Normalizing Flows | | | |  | 115 |
 | CutMix Regularization Strategy with Localizable Features | | | |  | 114 |
@@ -371,6 +393,7 @@
 - Manifold Mixup: Better Representations by Interpolating Hidden States ICML2019
 - On Mixup Training Improved Calibration
 
+
 ## 集成学习
 
 - Cyclical Stochastic Gradient MCMC
@@ -383,3 +406,6 @@
 
 - Set Transformer: A Framework for Attention-based Permutation-Invariant NN
 - Imagenet-Trained CNNS are Biased Towards Texture (ICLR2018)
+
+## 数据增广Data Augumentation
+
