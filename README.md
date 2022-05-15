@@ -35,11 +35,11 @@
 | | | | | | |
 | | | | | | |
 | | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| [Deep Generative prior for Image Restoration and Manipulation](https://www.bilibili.com/video/BV1rB4y1y7vf/) | | | | | 206 |
+| GCN semi-supervised classification with graph conv networks | | [youtube](https://www.youtube.com/watch?v=nLWXd_I9vKg) | | | 205 |
+| [Improved Trainable Calibration Method on Medical Imaging Classification](https://www.bilibili.com/video/BV1Tv4y1N7hd/) | | | | | 204 |
+| [Graph Attention Networks](https://www.bilibili.com/video/BV1tT4y1B7e1/) | | | | | 203 |
+| [Anomaly Transformer: Time Series Anomaly Detection](https://www.bilibili.com/video/BV1dv4y1K7iA/) | | | | | 202 |
 | [RandAugument and Cutout](https://www.bilibili.com/video/BV1V5411d7D3"【凑个数】201 RandAugument and Cutout") | | | | | 201 |
 | [Crafting Better Contrastive Views for Siamese Representation Learning](https://www.bilibili.com/video/BV1N3411N79a/)     |         |        |      |     |    200    |
 | [Efficient Sharpness-aware Minimization for Improve Neural Networks](https://www.bilibili.com/video/BV1fT4y1r7k8 "【读论文】198 Efficient Sharpness-aware Minimization for Improve Neural Networks")     |         |        |      |     |   198     |
