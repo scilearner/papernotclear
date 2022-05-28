@@ -32,8 +32,8 @@
 | | | | | | |
 | | | | | | |
 | | | | | | |
-| | | | | | |
-| | | | | | |
+| [LightGCN Simplifying Graph Convolution Network for Recommendation](https://www.bilibili.com/video/BV1r5411D7Yd/) | | | | | 209 |
+| [MiniRocket: Very Fast Deterministic Time Series Classification](https://www.bilibili.com/video/BV1ZA4y1o7FS/) | | | | | 208 |
 | [Simplifying Graph Convolutional Networks](https://www.bilibili.com/video/BV1wa411n7Ke "【读论文】207 Simplifying Graph Convolutional Networks") | | | | | 207 |
 | [Deep Generative prior for Image Restoration and Manipulation](https://www.bilibili.com/video/BV1rB4y1y7vf/) | | | | | 206 |
 | GCN semi-supervised classification with graph conv networks | | [youtube](https://www.youtube.com/watch?v=nLWXd_I9vKg) | | | 205 |
