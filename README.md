@@ -28,10 +28,16 @@
 
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| | | | | | 219 |
+| | | | | | 218 |
+| | | | | | 217 |
+| | | | | | 216 |
+| | | | | | 215 |
+| | | | | | 214 |
+| | | | | | 213 |
+| | | | | | 212 |
+| | | | | | 211 |
+| [Self-supervised Graph Learning for Recommendation](https://www.bilibili.com/video/BV1kg411R7ek "【读论文】210 Self-supervised Graph Learning for Recommendation") | | | | | 210 |
 | [LightGCN Simplifying Graph Convolution Network for Recommendation](https://www.bilibili.com/video/BV1r5411D7Yd/) | | | | | 209 |
 | [MiniRocket: Very Fast Deterministic Time Series Classification](https://www.bilibili.com/video/BV1ZA4y1o7FS/) | | | | | 208 |
 | [Simplifying Graph Convolutional Networks](https://www.bilibili.com/video/BV1wa411n7Ke "【读论文】207 Simplifying Graph Convolutional Networks") | | | | | 207 |
