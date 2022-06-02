@@ -35,7 +35,7 @@
 | | | | | | 215 |
 | | | | | | 214 |
 | | | | | | 213 |
-| | | | | | 212 |
+| [SLViT: Vision Transformer for Small-Size Datasets](https://www.bilibili.com/video/BV11L4y1K7tz "【读论文】212 SLViT: Vision Transformer for Small-Size Datasets") | | | | | 212 |
 | [CCT: Escaping the Big Data Paradigm with Compact Transformers](https://www.bilibili.com/video/BV1p94y1S7nf/) | | | | | 211 |
 | [Self-supervised Graph Learning for Recommendation](https://www.bilibili.com/video/BV1kg411R7ek "【读论文】210 Self-supervised Graph Learning for Recommendation") | | | | | 210 |
 | [LightGCN Simplifying Graph Convolution Network for Recommendation](https://www.bilibili.com/video/BV1r5411D7Yd/) | | | | | 209 |
