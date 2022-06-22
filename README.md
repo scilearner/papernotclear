@@ -28,9 +28,20 @@
 
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
-| | | | | | 219 |
-| | | | | | 218 |
-| | | | | | 217 |
+| | | | | | 230 |
+| | | | | | 229 |
+| | | | | | 228 |
+| | | | | | 227 |
+| | | | | | 226 |
+| | | | | | 225 |
+| | | | | | 224 |
+| | | | | | 223 |
+| | | | | | 222 |
+| | | | | | 221 |
+| | | | | | 220 |
+| [An Empirical Study of Train End-to-End Vision-and-Language Transformer](https://www.bilibili.com/video/BV1cr4y1g7pH "【读论文】219 An Empirical Study of Train End-to-End Vision-and-Language Transformer") | | | | | 219 |
+| [多模态预训练 VLMo 和 VL-BEIT](https://www.bilibili.com/video/BV1wB4y1s7H2 "【读论文】218 多模态预训练 VLMo 和 VL-BEIT") | | | | | 218 |
+| [Unsupervised Vision-and-Language Pre-train wo Parallel Images captions](https://www.bilibili.com/video/BV14B4y147Z5 "【读论文】217 Unsupervised Vision-and-Language Pre-train wo Parallel Images captions") | | | | | 217 |
 | [ViLT Vision-and-Language Transformer Without Convolution or Region](https://www.bilibili.com/video/BV1mY411K7t7 "【读论文】216 ViLT Vision-and-Language Transformer Without Convolution or Region") | | | | | 216 |
 | [Parameter-Efficient Transfer Learning for NLP](https://www.bilibili.com/video/BV1ca411j7CX "【读论文】215 Parameter-Efficient Transfer Learning for NLP") | | | | | 215 |
 | [Sharpness-Aware Training for Free](https://www.bilibili.com/video/BV1m94y1m77T "【读论文】214 Sharpness-Aware Training for Free") | | | | | 214 |
