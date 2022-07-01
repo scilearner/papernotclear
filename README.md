@@ -142,7 +142,7 @@
 | Unsupervised Clustering of Seismic Signals 地震波 using autoencoders | | | |  | 120 |
 | Towards the first adversarially robust neural network model on MNIST | | | |  | 119 |
 | PGD对抗训练 Towards Deep Learning Models Resistant to Adversarial Attacks | | | |  | 118 |
-| [Denoising Diffusion Probabilistic Models](https://www.bilibili.com/video/BV1Sq4y1G7DF "【读论文】Denoising Diffusion Probabilistic Models") | | | |  | 117 |
+| [Denoising Diffusion Probabilistic Models](https://www.bilibili.com/video/BV1K3411c7wp "【读论文】117 Denoising Diffusion Probabilistic Models")  | | | |  | 117 |
 | Deep Unsupervised Learning using Nonequilibrium Thermodynamics | | | |  | 116 |
 | Variational Inference with Normalizing Flows | | | |  | 115 |
 | CutMix Regularization Strategy with Localizable Features | | | |  | 114 |
