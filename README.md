@@ -38,7 +38,7 @@
 | | | | | | 223 |
 | | | | | | 222 |
 | | | | | | 221 |
-| | [UserBERT contrastive and self-supervised](https://www.bilibili.com/video/BV1qZ4y1i7DV "【读论文】220 UserBERT contrastive and self-supervised")| | | | 220 |
+| [UserBERT contrastive and self-supervised](https://www.bilibili.com/video/BV1qZ4y1i7DV "【读论文】220 UserBERT contrastive and self-supervised")  | | | | | 220 |
 | [An Empirical Study of Train End-to-End Vision-and-Language Transformer](https://www.bilibili.com/video/BV1cr4y1g7pH "【读论文】219 An Empirical Study of Train End-to-End Vision-and-Language Transformer") | | | | | 219 |
 | [多模态预训练 VLMo 和 VL-BEIT](https://www.bilibili.com/video/BV1wB4y1s7H2 "【读论文】218 多模态预训练 VLMo 和 VL-BEIT") | | | | | 218 |
 | [Unsupervised Vision-and-Language Pre-train wo Parallel Images captions](https://www.bilibili.com/video/BV14B4y147Z5 "【读论文】217 Unsupervised Vision-and-Language Pre-train wo Parallel Images captions") | | | | | 217 |
