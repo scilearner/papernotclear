@@ -36,8 +36,8 @@
 | | | | | | 225 |
 | | | | | | 224 |
 | | | | | | 223 |
-| | | | | | 222 |
-| | | | | | 221 |
+| [Accelerating Diffusion Models via Early Stop of the Diffusion Process](https://www.bilibili.com/video/BV1yZ4y1a7rn "【读论文】222 Accelerating Diffusion Models via Early Stop of the Diffusion Process") | | | | | 222 |
+| [Improved Denoising Diffusion Probabilistic Models](https://www.bilibili.com/video/BV1Ur4y1M7bx "【读论文】221 Improved Denoising Diffusion Probabilistic Models") | | | | | 221 |
 | [UserBERT contrastive and self-supervised](https://www.bilibili.com/video/BV1qZ4y1i7DV "【读论文】220 UserBERT contrastive and self-supervised")  | | | | | 220 |
 | [An Empirical Study of Train End-to-End Vision-and-Language Transformer](https://www.bilibili.com/video/BV1cr4y1g7pH "【读论文】219 An Empirical Study of Train End-to-End Vision-and-Language Transformer") | | | | | 219 |
 | [多模态预训练 VLMo 和 VL-BEIT](https://www.bilibili.com/video/BV1wB4y1s7H2 "【读论文】218 多模态预训练 VLMo 和 VL-BEIT") | | | | | 218 |
