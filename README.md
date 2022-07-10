@@ -34,8 +34,8 @@
 | | | | | | 227 |
 | | | | | | 226 |
 | | | | | | 225 |
-| | | | | | 224 |
-| | | | | | 223 |
+| [EDDI Dynamic Discovery of High-Value Information with Partial VAE](https://www.bilibili.com/video/BV1Br4y1E7pS "【读论文】224 EDDI Dynamic Discovery of High-Value Information with Partial VAE") | | | | | 224 |
+| [Diffusion Models Beat GANs on Image Synthesis](https://www.bilibili.com/video/BV1HS4y1n7N6 "【读论文】223 Diffusion Models Beat GANs on Image Synthesis") | | | | | 223 |
 | [Accelerating Diffusion Models via Early Stop of the Diffusion Process](https://www.bilibili.com/video/BV1yZ4y1a7rn "【读论文】222 Accelerating Diffusion Models via Early Stop of the Diffusion Process") | | | | | 222 |
 | [Improved Denoising Diffusion Probabilistic Models](https://www.bilibili.com/video/BV1Ur4y1M7bx "【读论文】221 Improved Denoising Diffusion Probabilistic Models") | | | | | 221 |
 | [UserBERT contrastive and self-supervised](https://www.bilibili.com/video/BV1qZ4y1i7DV "【读论文】220 UserBERT contrastive and self-supervised")  | | | | | 220 |
