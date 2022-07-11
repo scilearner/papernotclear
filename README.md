@@ -32,8 +32,8 @@
 | | | | | | 229 |
 | | | | | | 228 |
 | | | | | | 227 |
-| | | | | | 226 |
-| | | | | | 225 |
+| [Convolutional Knowledge Tracing Individualization in Learning Process](https://www.bilibili.com/video/BV1qe4y1R7ta "【读论文】226 Convolutional Knowledge Tracing Individualization in Learning Process") | | | | | 226 |
+| [Educational Question Mining At Scale Prediction, Analysis and Personal](https://www.bilibili.com/video/BV1XW4y127ji "【读论文】225 Educational Question Mining At Scale Prediction, Analysis and Personal") | | | | | 225 |
 | [EDDI Dynamic Discovery of High-Value Information with Partial VAE](https://www.bilibili.com/video/BV1Br4y1E7pS "【读论文】224 EDDI Dynamic Discovery of High-Value Information with Partial VAE") | | | | | 224 |
 | [Diffusion Models Beat GANs on Image Synthesis](https://www.bilibili.com/video/BV1HS4y1n7N6 "【读论文】223 Diffusion Models Beat GANs on Image Synthesis") | | | | | 223 |
 | [Accelerating Diffusion Models via Early Stop of the Diffusion Process](https://www.bilibili.com/video/BV1yZ4y1a7rn "【读论文】222 Accelerating Diffusion Models via Early Stop of the Diffusion Process") | | | | | 222 |
