@@ -31,7 +31,7 @@
 | | | | | | 230 |
 | | | | | | 229 |
 | | | | | | 228 |
-| | | | | | 227 |
+| [Efficient Training of Visual Transformers with Small Datasets](https://www.bilibili.com/video/BV1kT411A781 "【读论文】227 Efficient Training of Visual Transformers with Small Datasets") | | | | | 227 |
 | [Convolutional Knowledge Tracing Individualization in Learning Process](https://www.bilibili.com/video/BV1qe4y1R7ta "【读论文】226 Convolutional Knowledge Tracing Individualization in Learning Process") | | | | | 226 |
 | [Educational Question Mining At Scale Prediction, Analysis and Personal](https://www.bilibili.com/video/BV1XW4y127ji "【读论文】225 Educational Question Mining At Scale Prediction, Analysis and Personal") | | | | | 225 |
 | [EDDI Dynamic Discovery of High-Value Information with Partial VAE](https://www.bilibili.com/video/BV1Br4y1E7pS "【读论文】224 EDDI Dynamic Discovery of High-Value Information with Partial VAE") | | | | | 224 |
