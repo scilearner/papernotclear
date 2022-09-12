@@ -28,9 +28,18 @@
 
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
-| | | | | | 230 |
-| | | | | | 229 |
-| | | | | | 228 |
+|  | | | | | 239 |
+|  | | | | | 238 |
+|  | | | | | 237 |
+|  | | | | | 236 |
+|  | | | | | 235 |
+| [StyleGAN: A Style-Based Generator Architecture for GAN](https://www.bilibili.com/video/BV1p14y1e7Gj "【读论文】234 StyleGAN: A Style-Based Generator Architecture for GAN") | | | | | 234 |
+| [AdaIN:Arbitrary Style Transfer in Real-time with Adaptive Instance Norm](https://www.bilibili.com/video/BV1Aa411g74Z "【读论文】233 AdaIN:Arbitrary Style Transfer in Real-time with Adaptive Instance Norm")  | | | | | 233 |
+| [A learned representation for artistic style](https://www.bilibili.com/video/BV1tB4y137Fp "【读论文】232 A learned representation for artistic style") | | | | | 232 |
+| [Cold Diffusion Inverting Arbitrary Image Transforms Without Noise](https://www.bilibili.com/video/BV1m14y1s7sP "【读论文】231 Cold Diffusion Inverting Arbitrary Image Transforms Without Noise") | | | | | 231 |
+| [EnergyMatch: Energy-based Pseudo-Labeling for Semi-Supervised](https://www.bilibili.com/video/BV1VV4y1p7Aa "【读论文】230 EnergyMatch: Energy-based Pseudo-Labeling for Semi-Supervised") | | | | | 230 |
+| [Knowledge distillation A good teacher is patient and consistent](https://www.bilibili.com/video/BV1Cg411D7av "【读论文】229 Knowledge distillation A good teacher is patient and consistent") | | | | | 229 |
+| [Understanding Attention for Vision-and-Language Tasks](https://www.bilibili.com/video/BV1Nv4y1F7gt "【读论文】228 Understanding Attention for Vision-and-Language Tasks") | | | | | 228 |
 | [Efficient Training of Visual Transformers with Small Datasets](https://www.bilibili.com/video/BV1kT411A781 "【读论文】227 Efficient Training of Visual Transformers with Small Datasets") | | | | | 227 |
 | [Convolutional Knowledge Tracing Individualization in Learning Process](https://www.bilibili.com/video/BV1qe4y1R7ta "【读论文】226 Convolutional Knowledge Tracing Individualization in Learning Process") | | | | | 226 |
 | [Educational Question Mining At Scale Prediction, Analysis and Personal](https://www.bilibili.com/video/BV1XW4y127ji "【读论文】225 Educational Question Mining At Scale Prediction, Analysis and Personal") | | | | | 225 |
