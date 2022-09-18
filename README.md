@@ -31,7 +31,7 @@
 |  | | | | | 239 |
 |  | | | | | 238 |
 |  | | | | | 237 |
-|  | | | | | 236 |
+| [StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN](https://www.bilibili.com/video/BV1Sd4y1u78h "【读论文】236 StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN") | | | | | 236 |
 | [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort](https://www.bilibili.com/video/BV1me411u7PF "【读论文】235 DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort") | | | | | 235 |
 | [StyleGAN: A Style-Based Generator Architecture for GAN](https://www.bilibili.com/video/BV1p14y1e7Gj "【读论文】234 StyleGAN: A Style-Based Generator Architecture for GAN") | | | | | 234 |
 | [AdaIN:Arbitrary Style Transfer in Real-time with Adaptive Instance Norm](https://www.bilibili.com/video/BV1Aa411g74Z "【读论文】233 AdaIN:Arbitrary Style Transfer in Real-time with Adaptive Instance Norm")  | | | | | 233 |
