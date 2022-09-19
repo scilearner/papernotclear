@@ -3,7 +3,7 @@ Date: 20220910
 Category: paper
 tags: paper, generator, EBM
 
-[toc]
+[TOC]
 
 # 概述
 
