@@ -28,8 +28,8 @@
 
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
-|  | | | | | 239 |
-|  | | | | | 238 |
+| [Generative Modeling by Estimating Gradients of the Data Distribution](https://www.bilibili.com/video/BV1v24y1d7gt/) | | | | | 239 |
+| [Estimation of Non-Normalized Statistical Models by Score Matching](https://www.bilibili.com/video/BV13T411T7SE/) | | | | | 238 |
 | [StyleGAN2-ADA: Adaptive D Augmentation with limited data](https://www.bilibili.com/video/BV1TW4y1q786/) | | | | | 237 |
 | [StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN](https://www.bilibili.com/video/BV1Sd4y1u78h "【读论文】236 StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN") | | | | | 236 |
 | [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort](https://www.bilibili.com/video/BV1me411u7PF "【读论文】235 DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort") | | | | | 235 |
