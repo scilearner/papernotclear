@@ -28,12 +28,23 @@
 
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
+|      |   |   |   |  |  250 |
+|      |   |   |   |  |  249 |
+|      |   |   |   |  |  248 |
+|      |   |   |   |  |  247 |
+|      |   |   |   |  |  246 |
+|      |   |   |   |  |  245 |
+|      |   |   |   |  |  244 |
+|      |   |   |   |  |  243 |
+|      |   |   |   |  |  242 |
+|      |   |   |   |  |  241 |
+|      |   |   |   |  |  240 |
 | [Generative Modeling by Estimating Gradients of the Data Distribution](https://www.bilibili.com/video/BV1v24y1d7gt/) | | | | | 239 |
-| [Estimation of Non-Normalized Statistical Models by Score Matching](https://www.bilibili.com/video/BV13T411T7SE/) | | | | | 238 |
+| [Estimation of Non-Normalized Statistical Models by Score Matching](https://www.bilibili.com/video/BV13T411T7SE/) | [Blog](https://scilearner.github.io/score-matching-estimation-of-non-normalized-statistical-models-by-score-matching.html) | | | | 238 |
 | [StyleGAN2-ADA: Adaptive D Augmentation with limited data](https://www.bilibili.com/video/BV1TW4y1q786/) | | | | | 237 |
-| [StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN](https://www.bilibili.com/video/BV1Sd4y1u78h "【读论文】236 StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN") | | | | | 236 |
+| [StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN](https://www.bilibili.com/video/BV1Sd4y1u78h "【读论文】236 StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN") | [Blog](https://scilearner.github.io/stylegan2-analyzing-and-improving-the-image-quality-of-stylegan.html) | | | | 236 |
 | [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort](https://www.bilibili.com/video/BV1me411u7PF "【读论文】235 DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort") | | | | | 235 |
-| [StyleGAN: A Style-Based Generator Architecture for GAN](https://www.bilibili.com/video/BV1p14y1e7Gj "【读论文】234 StyleGAN: A Style-Based Generator Architecture for GAN") | | | | | 234 |
+| [StyleGAN: A Style-Based Generator Architecture for GAN](https://www.bilibili.com/video/BV1p14y1e7Gj "【读论文】234 StyleGAN: A Style-Based Generator Architecture for GAN") | [Blog](https://scilearner.github.io/stylegan-a-style-based-generator-architecture-for-generative-adversarial-networks.html) | | | | 234 |
 | [AdaIN:Arbitrary Style Transfer in Real-time with Adaptive Instance Norm](https://www.bilibili.com/video/BV1Aa411g74Z "【读论文】233 AdaIN:Arbitrary Style Transfer in Real-time with Adaptive Instance Norm")  | | | | | 233 |
 | [A learned representation for artistic style](https://www.bilibili.com/video/BV1tB4y137Fp "【读论文】232 A learned representation for artistic style") | | | | | 232 |
 | [Cold Diffusion Inverting Arbitrary Image Transforms Without Noise](https://www.bilibili.com/video/BV1m14y1s7sP "【读论文】231 Cold Diffusion Inverting Arbitrary Image Transforms Without Noise") | | | | | 231 |
