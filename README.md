@@ -37,7 +37,7 @@
 |      |   |   |   |  |  244 |
 |      |   |   |   |  |  243 |
 |      |   |   |   |  |  242 |
-|      |   |   |   |  |  241 |
+| [Diffusion Models for Adversarial Purification](https://www.bilibili.com/video/BV1Md4y1M7NP "【读论文】241 Diffusion Models for Adversarial Purification")     | [Blog](https://scilearner.github.io/diffusion-models-for-adversarial-purification.html)  |   |   |  |  241 |
 | [Score-Based Generative Modeling Stochastic Differential Equations 0](https://www.bilibili.com/video/BV1q24y1o72N "【自娱自阅】240 Score-Based Generative Modeling Stochastic Differential Equations 0")  | [Blog](https://scilearner.github.io/score-based-generative-modeling-through-stochastic-differential-equations.html)  |   |   |  |  240 |
 | [Generative Modeling by Estimating Gradients of the Data Distribution](https://www.bilibili.com/video/BV1v24y1d7gt/) | | | | | 239 |
 | [Estimation of Non-Normalized Statistical Models by Score Matching](https://www.bilibili.com/video/BV13T411T7SE/) | [Blog](https://scilearner.github.io/score-matching-estimation-of-non-normalized-statistical-models-by-score-matching.html) | | | | 238 |
