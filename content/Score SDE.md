@@ -6,14 +6,14 @@ tags: paper, generator, Diffusion, score matching
 [TOC]
 
 # 概述
-0. Using SDE and reverse-time SDE in continous domain.
-1. Generalize Score matching and Diffusion to inifinite T.
-2. Two SDEs to use
-3. Train like Denoising Score Matching or DDPM.  Sliced Score matching also works.
-4. Inference/Generation: Propose Predictor-Corrector sampler (SDE Solver + MCMC)
-5. Propose a Deterministic sampler, call “probability flow ordinary DE (ODE)”.
-6. Architecture Improvements
-7. class-conditional generation, image imputation and colorization
+0. Using SDE and reverse-time SDE to extend to continous domain.  使用SDE及反向SDE，将时间T 推广到 连续域
+1. Generalize Score matching and Diffusion to inifinite T.  统一 score matching 和 扩散模型， 并将时间 T 推广到 无限
+2. Two SDEs derived from 2 Markov chain to use 两个具体的SDE， 分别来自不同的Markov chain, 其中一个是 DDPM使用的chain.
+3. Train like Denoising Score Matching or DDPM.  Sliced Score matching also works. 训练方式与 denoising score matching/DDPM 很相似
+4. Inference/Generation: 1. General SDE sampler using the corresponding reverse-time SDE. 2. Propose Predictor-Corrector sampler (SDE Solver + MCMC)  生成过程 1. 使用常用的SDE数值解法， 2. 提出 用 score-based MCMC 改进
+5. Propose a Deterministic sampler, call “probability flow ordinary DE (ODE)”. 提出确定性采样器来生成， 好处有多
+6. Architecture Improvements 结构改进
+7. class-conditional generation, image imputation and colorization， 实现可控制生成， 基于又一个SDE。
 
 # Unified Framework
 
