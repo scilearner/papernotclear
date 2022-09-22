@@ -8,13 +8,19 @@ tags: paper, generator, GAN
 # 概述
 [[stylegan]]
 
+1. 改进 AdaIN 造成的气泡点
+2. 
+
 ## 归一化
+原版:  第i层AdaIN $AdaIN(x, y_i) = y_{s,i} \frac{x - \mu(x)}{\sigma(x)} + y_{b, i}$ ,  其中  $y_i = (y_{s, i}, y_{b, i}) = A_i (w),  w = 8MLP(z)$
 
-缺点： 造成 blob 或 corrupted 的图片
 
-方法： 移除 AdaIN里的bias， 即只保留 std
+缺点： 生成 blob有气泡部位 或 corrupted异常 的图片
 
-## Demodulation
+改进一 移除 AdaIN里的平移项bias $y_b$， 即只保留 scaling项 $y_s$  作用类似 std 
+改进二  Demodulation
+
+### Demodulation
 
 移除 normalization操作， 转成 w -> w' = s w -> w'' = w'/ $\sqrt{\sum w'}$
 
