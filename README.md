@@ -36,7 +36,7 @@
 |      |   |   |   |  |  245 |
 |      |   |   |   |  |  244 |
 |      |   |   |   |  |  243 |
-|      |   |   |   |  |  242 |
+| [Get Fooled for the Right Reason: Adversarial Robust wo Adv Train](https://www.bilibili.com/video/BV1Kg411m7Vu "【自娱自阅】242 Get Fooled for the Right Reason: Adversarial Robust wo Adv Train")     |   |   |   |  |  242 |
 | [Diffusion Models for Adversarial Purification](https://www.bilibili.com/video/BV1Md4y1M7NP "【读论文】241 Diffusion Models for Adversarial Purification")     | [Blog](https://scilearner.github.io/diffusion-models-for-adversarial-purification.html)  |   |   |  |  241 |
 | [Score-Based Generative Modeling Stochastic Differential Equations 0](https://www.bilibili.com/video/BV1q24y1o72N "【自娱自阅】240 Score-Based Generative Modeling Stochastic Differential Equations 0")  | [Blog](https://scilearner.github.io/score-based-generative-modeling-through-stochastic-differential-equations.html)  |   |   |  |  240 |
 | [Generative Modeling by Estimating Gradients of the Data Distribution](https://www.bilibili.com/video/BV1v24y1d7gt/) | | | | | 239 |
