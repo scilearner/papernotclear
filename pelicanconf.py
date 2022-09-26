@@ -27,6 +27,7 @@ MARKDOWN = {
         'markdown.extensions.codehilite': {'css_class': 'highlight'},
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
+        'markdown.extensions.problem': {},
         'markdown.extensions.toc': {'title': 'Table of Contents'},
     },
     'output_format': 'html5',
