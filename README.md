@@ -33,8 +33,8 @@
 |      |   |   |   |  |  248 |
 |      |   |   |   |  |  247 |
 |      |   |   |   |  |  246 |
-|      |   |   |   |  |  245 |
-|      |   |   |   |  |  244 |
+| [Palette: Image-to-Image Diffusion Models](https://www.bilibili.com/video/BV1Ze4y1n771/)     |   |   |   |  |  245 |
+| [Hypergraph Neural Networks](https://www.bilibili.com/video/BV1CT411N7AY/)     |   |   |   |  |  244 |
 | [USB: A Unified Semi-supervised Learning Benchmark](https://www.bilibili.com/video/BV1bD4y1i7M5 "【读论文】243 USB: A Unified Semi-supervised Learning Benchmark")     |   |   |   |  |  243 |
 | [Get Fooled for the Right Reason: Adversarial Robust wo Adv Train](https://www.bilibili.com/video/BV1Kg411m7Vu "【自娱自阅】242 Get Fooled for the Right Reason: Adversarial Robust wo Adv Train")     |   |   |   |  |  242 |
 | [Diffusion Models for Adversarial Purification](https://www.bilibili.com/video/BV1Md4y1M7NP "【读论文】241 Diffusion Models for Adversarial Purification")     | [Blog](https://scilearner.github.io/diffusion-models-for-adversarial-purification.html)  |   |   |  |  241 |
