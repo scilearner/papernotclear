@@ -32,7 +32,7 @@
 |      |   |   |   |  |  249 |
 |      |   |   |   |  |  248 |
 |      |   |   |   |  |  247 |
-|      |   |   |   |  |  246 |
+| [Automated Progressive Learning Efficient Train ViT Vision Transformer](https://www.bilibili.com/video/BV1QY4y1N72z/)     |   |   |   |  |  246 |
 | [Palette: Image-to-Image Diffusion Models](https://www.bilibili.com/video/BV1Ze4y1n771/)     |   |   |   |  |  245 |
 | [Hypergraph Neural Networks](https://www.bilibili.com/video/BV1CT411N7AY/)     |   |   |   |  |  244 |
 | [USB: A Unified Semi-supervised Learning Benchmark](https://www.bilibili.com/video/BV1bD4y1i7M5 "【读论文】243 USB: A Unified Semi-supervised Learning Benchmark")     |   |   |   |  |  243 |
