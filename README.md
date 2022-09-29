@@ -30,8 +30,8 @@
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
 |      |   |   |   |  |  250 |
 |      |   |   |   |  |  249 |
-|      |   |   |   |  |  248 |
-|      |   |   |   |  |  247 |
+| [Training Generative Adversarial Networks in One Stage](https://www.bilibili.com/video/BV11e4y1H7KY/)     |   |   |   |  |  248 |
+| [Autoencoding beyond pixels using a learned similarity metric](https://www.bilibili.com/video/BV1Ut4y1w7uE/)     |   |   |   |  |  247 |
 | [Automated Progressive Learning Efficient Train ViT Vision Transformer](https://www.bilibili.com/video/BV1QY4y1N72z/)     |   |   |   |  |  246 |
 | [Palette: Image-to-Image Diffusion Models](https://www.bilibili.com/video/BV1Ze4y1n771/)     |   |   |   |  |  245 |
 | [Hypergraph Neural Networks](https://www.bilibili.com/video/BV1CT411N7AY/)     |   |   |   |  |  244 |
