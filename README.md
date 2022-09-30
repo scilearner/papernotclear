@@ -28,7 +28,7 @@
 
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
-| [Early Convolutions Help Transformers See Better]()     |   |   |   |  |  250 |
+| [Early Convolutions Help Transformers See Better](https://www.bilibili.com/video/BV1Td4y1u7Zj "【读论文】250 Early Convolutions Help Transformers See Better")     |   |   |   |  |  250 |
 | [Do Deep Neural Net Display Human-like Attention in Short Answer Scoring](https://www.bilibili.com/video/BV1Ht4y1w7Yw "【读论文】249 Do Deep Neural Net Display Human-like Attention in Short Answer Scoring")     |   |   |   |  |  249 |
 | [Training Generative Adversarial Networks in One Stage](https://www.bilibili.com/video/BV11e4y1H7KY/)     |   |   |   |  |  248 |
 | [Autoencoding beyond pixels using a learned similarity metric](https://www.bilibili.com/video/BV1Ut4y1w7uE/)     |   |   |   |  |  247 |
