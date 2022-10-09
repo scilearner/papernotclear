@@ -28,6 +28,15 @@
 
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | 254 |
+| | | | | | 253 |
+| [Dual Contradistinctive Generative Autoencoder](https://www.bilibili.com/video/BV1KW4y1J7ny/) | | | | | 252 |
+| [Improving Diffusion Model Efficiency Through Patching](https://www.bilibili.com/video/BV1TR4y1o7C9/) | | | | | 251 |
 | [Early Convolutions Help Transformers See Better](https://www.bilibili.com/video/BV1Td4y1u7Zj "【读论文】250 Early Convolutions Help Transformers See Better")     |   |   |   |  |  250 |
 | [Do Deep Neural Net Display Human-like Attention in Short Answer Scoring](https://www.bilibili.com/video/BV1Ht4y1w7Yw "【读论文】249 Do Deep Neural Net Display Human-like Attention in Short Answer Scoring")     |   |   |   |  |  249 |
 | [Training Generative Adversarial Networks in One Stage](https://www.bilibili.com/video/BV11e4y1H7KY/)     |   |   |   |  |  248 |
