@@ -34,7 +34,7 @@
 | | | | | | |
 | | | | | | |
 | | | | | | 254 |
-| | | | | | 253 |
+| [How to Train Vision Transformer on Small-scale Datasets](https://www.bilibili.com/video/BV1Ce4y1v7Yr "【读论文】253 How to Train Vision Transformer on Small-scale Datasets") | | | | | 253 |
 | [Dual Contradistinctive Generative Autoencoder](https://www.bilibili.com/video/BV1KW4y1J7ny/) | | | | | 252 |
 | [Improving Diffusion Model Efficiency Through Patching](https://www.bilibili.com/video/BV1TR4y1o7C9/) | | | | | 251 |
 | [Early Convolutions Help Transformers See Better](https://www.bilibili.com/video/BV1Td4y1u7Zj "【读论文】250 Early Convolutions Help Transformers See Better")     |   |   |   |  |  250 |
