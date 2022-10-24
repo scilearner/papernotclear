@@ -32,8 +32,8 @@
 | | | | | | |
 | | | | | | |
 | | | | | | |
-| | | | | | |
-| | | | | | 254 |
+| [All are Worth Words: a ViT Backbone for Score-based Diffusion Models](https://www.bilibili.com/video/BV1Fe4y1U7uP/) | | | | | 255 |
+| [Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model](https://www.bilibili.com/video/BV1hD4y1r724/) | | | | | 254 |
 | [How to Train Vision Transformer on Small-scale Datasets](https://www.bilibili.com/video/BV1Ce4y1v7Yr "【读论文】253 How to Train Vision Transformer on Small-scale Datasets") | | | | | 253 |
 | [Dual Contradistinctive Generative Autoencoder](https://www.bilibili.com/video/BV1KW4y1J7ny/) | | | | | 252 |
 | [Improving Diffusion Model Efficiency Through Patching](https://www.bilibili.com/video/BV1TR4y1o7C9/) | | | | | 251 |
