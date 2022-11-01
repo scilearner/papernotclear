@@ -28,7 +28,17 @@
 
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
-| | | | | | |
+| | | | | | 269 |
+| | | | | | 268 |
+| | | | | | 267 |
+| | | | | | 266 |
+| | | | | | 265 |
+| | | | | | 264 |
+| | | | | | 263 |
+| | | | | | 262 |
+| | | | | | 261 |
+| | | | | | 260 |
+| [Image Super-Resolution via Iterative Refinement](https://www.bilibili.com/video/BV1Bd4y1C7aY/) | | | | | 259 |
 | [CARD: Classification and Regression Diffusion Models](https://www.bilibili.com/video/BV1vD4y147aZ/) | | | | | 258 |
 | [Score-based Generative Modeling in Latent Space](https://www.bilibili.com/video/BV18e411G7R7/) | | | | | 257 |
 | [DiffuseVAE Controllable and High-Fidelity Generation via Latent](https://www.bilibili.com/video/BV1pK411U7zq/) | | | | | 256 |
