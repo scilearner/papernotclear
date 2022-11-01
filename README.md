@@ -29,11 +29,11 @@
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
 | | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| [CARD: Classification and Regression Diffusion Models](https://www.bilibili.com/video/BV1vD4y147aZ/) | | | | | 258 |
+| [Score-based Generative Modeling in Latent Space](https://www.bilibili.com/video/BV18e411G7R7/) | | | | | 257 |
+| [DiffuseVAE Controllable and High-Fidelity Generation via Latent](https://www.bilibili.com/video/BV1pK411U7zq/) | | | | | 256 |
 | [All are Worth Words: a ViT Backbone for Score-based Diffusion Models](https://www.bilibili.com/video/BV1Fe4y1U7uP/) | | | | | 255 |
-| [Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model](https://www.bilibili.com/video/BV1hD4y1r724/) | | | | | 254 |
+| | | | | | 254 |
 | [How to Train Vision Transformer on Small-scale Datasets](https://www.bilibili.com/video/BV1Ce4y1v7Yr "【读论文】253 How to Train Vision Transformer on Small-scale Datasets") | | | | | 253 |
 | [Dual Contradistinctive Generative Autoencoder](https://www.bilibili.com/video/BV1KW4y1J7ny/) | | | | | 252 |
 | [Improving Diffusion Model Efficiency Through Patching](https://www.bilibili.com/video/BV1TR4y1o7C9/) | | | | | 251 |
