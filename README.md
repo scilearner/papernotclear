@@ -36,8 +36,8 @@
 | | | | | | 264 |
 | | | | | | 263 |
 | | | | | | 262 |
-| | | | | | 261 |
-| | | | | | 260 |
+| [Batch Normalization Increases Adversarial Vulnerability](https://www.bilibili.com/video/BV1NP4y127PS/) | | | | | 261 |
+| [Conversion Between CT and MRI Images Using Diffusion and Score-Matching](https://www.bilibili.com/video/BV1LV4y1374D/) | | | | | 260 |
 | [Image Super-Resolution via Iterative Refinement](https://www.bilibili.com/video/BV1Bd4y1C7aY/) | | | | | 259 |
 | [CARD: Classification and Regression Diffusion Models](https://www.bilibili.com/video/BV1vD4y147aZ/) | | | | | 258 |
 | [Score-based Generative Modeling in Latent Space](https://www.bilibili.com/video/BV18e411G7R7/) | | | | | 257 |
