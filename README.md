@@ -33,8 +33,8 @@
 | | | | | | 267 |
 | | | | | | 266 |
 | | | | | | 265 |
-| | | | | | 264 |
-| | | | | | 263 |
+| [SDEdit: Guided Image Synthesis and Editing](https://www.bilibili.com/video/BV1KG4y1t717/) | | | | | 264 |
+| [InsetGAN for Full-Body Image Generation](https://www.bilibili.com/video/BV1Mv4y1S7fz/) | | | | | 263 |
 | [Fixup Initialization: Residual Learning Without Normalization](https://www.bilibili.com/video/BV1eg411B7Qz/) | | | | | 262 |
 | [Batch Normalization Increases Adversarial Vulnerability](https://www.bilibili.com/video/BV1NP4y127PS/) | | | | | 261 |
 | [Conversion Between CT and MRI Images Using Diffusion and Score-Matching](https://www.bilibili.com/video/BV1LV4y1374D/) | | | | | 260 |
