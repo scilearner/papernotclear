@@ -32,7 +32,7 @@
 | | | | | | 268 |
 | | | | | | 267 |
 | | | | | | 266 |
-| | | | | | 265 |
+| [Graphormer: Graph与Transformer](https://www.bilibili.com/video/BV13v4y1U7Wd/ "【读论文】264 Graphormer: Graph与Transformer") | | | | | 265 |
 | [SDEdit: Guided Image Synthesis and Editing](https://www.bilibili.com/video/BV1KG4y1t717/) | | | | | 264 |
 | [InsetGAN for Full-Body Image Generation](https://www.bilibili.com/video/BV1Mv4y1S7fz/) | | | | | 263 |
 | [Fixup Initialization: Residual Learning Without Normalization](https://www.bilibili.com/video/BV1eg411B7Qz/) | | | | | 262 |
