@@ -313,6 +313,22 @@
 | [【过代码】SCAN: Learning to Classify Images without Labels](https://www.bilibili.com/video/BV1z34y1q7U2 "【过代码】SCAN: Learning to Classify Images without Labels") |      |      |      | 1 |
 
 
+# Domain 领域
+
+感兴趣但未涉及领域
+
+0. 教育，教育AI论文看过，但教育学就没
+1. 目标检测， 大佬太多
+2. 图像语义分割， 大佬太多
+3. 无监督的上面两个， 1、2没有看
+4. 医学的第二个
+5. 医学时间序列
+6. 更多的时间序列
+7. 医学图像分类——好像有看过一篇 基于transfer learning的来着？general，但作者的描述里用的医学图像
+8. 文本语义相似度——SimCSE 其实就差不多了
+9. 因果性 causality
+10. 理论、泛化， 太难
+
 
 # Paper List
 
