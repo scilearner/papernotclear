@@ -31,7 +31,7 @@
 | | | | | | 269 |
 | | | | | | 268 |
 | | | | | | 267 |
-| | | | | | 266 |
+| [Transformer-M: One Transformer Can Understand Both 2D & 3D Molecular Data](https://www.bilibili.com/video/BV1Hv4y1U7YZ/ "【读论文】Transformer-M: One Transformer Can Understand Both 2D & 3D Molecular Data") | | | | | 266 |
 | [Graphormer: Graph与Transformer](https://www.bilibili.com/video/BV13v4y1U7Wd/ "【读论文】264 Graphormer: Graph与Transformer") | | | | | 265 |
 | [SDEdit: Guided Image Synthesis and Editing](https://www.bilibili.com/video/BV1KG4y1t717/) | | | | | 264 |
 | [InsetGAN for Full-Body Image Generation](https://www.bilibili.com/video/BV1Mv4y1S7fz/) | | | | | 263 |
