@@ -28,8 +28,18 @@
 
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
+| | | | | | 279 |
+| | | | | | 278 |
+| | | | | | 277 |
+| | | | | | 276 |
+| | | | | | 275 |
+| | | | | | 274 |
+| | | | | | 273 |
+| | | | | | 272 |
+| | | | | | 271 |
+| | | | | | 270 |
 | | | | | | 269 |
-| | | | | | 268 |
+|  | | | | | 268 |
 | [Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding](https://www.bilibili.com/video/BV1984y1k7fS/) | | | | | 267 |
 | [Transformer-M: One Transformer Can Understand Both 2D & 3D Molecular Data](https://www.bilibili.com/video/BV1Hv4y1U7YZ/ "【读论文】Transformer-M: One Transformer Can Understand Both 2D & 3D Molecular Data") | | | | | 266 |
 | [Graphormer: Graph与Transformer](https://www.bilibili.com/video/BV13v4y1U7Wd/ "【读论文】264 Graphormer: Graph与Transformer") | | | | | 265 |
@@ -315,6 +325,11 @@
 
 # Domain 领域
 
+TODO:
+1. Mask R-CNN 目标检测 与 实例分割
+2. 无监督目标检测 与 实例分割——起码两篇论文
+3. Diffusion + 生物信息学
+
 感兴趣但未涉及领域
 
 0. 教育，教育AI论文看过，但教育学就没
@@ -322,9 +337,9 @@
 2. 图像语义分割， 大佬太多
 3. 无监督的上面两个， 1、2没有看
 4. 医学的第二个
-5. 医学时间序列
+5. ~~医学时间序列,~~  2022-11-21号 267号
 6. 更多的时间序列
-7. 医学图像分类——好像有看过一篇 基于transfer learning的来着？general，但作者的描述里用的医学图像
+7. ~~医学图像分类~~——好像有看过一篇 基于transfer learning的来着？general，但作者的描述里用的医学图像, 2022.11.21  [ViT+迁移学习 在医学图像分类上才能比CNN更好](https://www.bilibili.com/video/BV1md4y1477o/)
 8. 文本语义相似度——SimCSE 其实就差不多了
 9. 因果性 causality
 10. 理论、泛化， 太难
