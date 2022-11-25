@@ -38,8 +38,8 @@
 | | | | | | 272 |
 | | | | | | 271 |
 | | | | | | 270 |
-| | | | | | 269 |
-|  | | | | | 268 |
+| [ImageMol molecular drug self-supervised image representation learning](https://www.bilibili.com/video/BV1UP411M7EH/ "【读论文】ImageMol molecular  drug self-supervised image representation learning") | | | | | 269 |
+| [Learning Unsupervised Representations for ICU Timeseries](https://www.bilibili.com/video/BV15e4y1p7Cx/?spm_id_from=333.999.0.0 "【读论文】ICU 时间序列的无监督表征学习") | | | | | 268 |
 | [Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding](https://www.bilibili.com/video/BV1984y1k7fS/) | | | | | 267 |
 | [Transformer-M: One Transformer Can Understand Both 2D & 3D Molecular Data](https://www.bilibili.com/video/BV1Hv4y1U7YZ/ "【读论文】Transformer-M: One Transformer Can Understand Both 2D & 3D Molecular Data") | | | | | 266 |
 | [Graphormer: Graph与Transformer](https://www.bilibili.com/video/BV13v4y1U7Wd/ "【读论文】264 Graphormer: Graph与Transformer") | | | | | 265 |
