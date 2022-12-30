@@ -35,9 +35,9 @@
 | | | | | | 275 |
 | | | | | | 274 |
 | | | | | | 273 |
-| | | | | | 272 |
-| | | | | | 271 |
-| | | | | | 270 |
+| [Cramming: Training a Language Model on a Single GPU in 1 Day](https://www.bilibili.com/video/BV1zK411i7Hk/) | | | | | 272 |
+| [Quantification Analysis of Layer-wise and Pixel-wise Information Discarding](https://www.bilibili.com/video/BV1vW4y1L7Ta/) | | | | | 271 |
+| [Bag-of-Words vs. Graph vs. Sequence in Text Classification](https://www.bilibili.com/video/BV143411Q7o9/) | | | | | 270 |
 | [ImageMol molecular drug self-supervised image representation learning](https://www.bilibili.com/video/BV1UP411M7EH/ "【读论文】ImageMol molecular  drug self-supervised image representation learning") | | | | | 269 |
 | [Learning Unsupervised Representations for ICU Timeseries](https://www.bilibili.com/video/BV15e4y1p7Cx/?spm_id_from=333.999.0.0 "【读论文】ICU 时间序列的无监督表征学习") | | | | | 268 |
 | [Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding](https://www.bilibili.com/video/BV1984y1k7fS/) | | | | | 267 |
@@ -263,7 +263,7 @@
 | Adversarial Examples Improve Image Recognition | | | |  | 48 |
 | Stochastic Weight Averaging for Generalization | | | |  | 47 |
 | There Are Many Consistent Explanations Of Unlabeled Data | | | |  | 46 |
-| Interpretable Convolutional Neural Networks | | | |  | 45 |
+| [Interpretable Convolutional Neural Networks](https://www.bilibili.com/video/BV1tW4y1K75N/) | | | |  | 45 |
 | Understanding Black-box Predictions via Influence Functions | | | |  | 44 |
 | Adversarial Examples Are Not Bugs, They Are Features | | | |  | 43 |
 | You Only Propagate Once Accelerating AT via Maximal Principle | | | |  | 42 |
