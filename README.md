@@ -32,9 +32,9 @@
 | | | | | | 278 |
 | | | | | | 277 |
 | | | | | | 276 |
-| | | | | | 275 |
-| | | | | | 274 |
-| | | | | | 273 |
+| [Tip-Adapter: Training-free Adaption CLIP for Few-shot Classification](https://www.bilibili.com/video/BV1h44y1d78e/) | | | | | 275 |
+| [CLIP-Adapter: Vision-Language Models with Feature Adapters](https://www.bilibili.com/video/BV1Lg411t7sr/) | | | | | 274 |
+| [Spatially Invariant Unsupervised Object Detection with CNN](https://www.bilibili.com/video/BV1K8411E7zq/) | | | | | 273 |
 | [Cramming: Training a Language Model on a Single GPU in 1 Day](https://www.bilibili.com/video/BV1zK411i7Hk/) | | | | | 272 |
 | [Quantification Analysis of Layer-wise and Pixel-wise Information Discarding](https://www.bilibili.com/video/BV1vW4y1L7Ta/) | | | | | 271 |
 | [Bag-of-Words vs. Graph vs. Sequence in Text Classification](https://www.bilibili.com/video/BV143411Q7o9/) | | | | | 270 |
