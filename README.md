@@ -30,8 +30,8 @@
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
 | | | | | | 279 |
 | | | | | | 278 |
-| | | | | | 277 |
-| | | | | | 276 |
+| [Unsupervised Object Detection with LiDAR Clues](https://www.bilibili.com/video/BV1ye4y1V7Z6/) | | | | | 277 |
+| [LEAVES: Learning Views for Time-Series Data in Contrastive Learning](https://www.bilibili.com/video/BV1zW4y1V7h4/) | | | | | 276 |
 | [Tip-Adapter: Training-free Adaption CLIP for Few-shot Classification](https://www.bilibili.com/video/BV1h44y1d78e/) | | | | | 275 |
 | [CLIP-Adapter: Vision-Language Models with Feature Adapters](https://www.bilibili.com/video/BV1Lg411t7sr/) | | | | | 274 |
 | [Spatially Invariant Unsupervised Object Detection with CNN](https://www.bilibili.com/video/BV1K8411E7zq/) | | | | | 273 |
