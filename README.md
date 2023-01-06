@@ -28,8 +28,9 @@
 
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
-| | | | | | 279 |
-| | | | | | 278 |
+| | | | | | 280 |
+| [NLIP: Noise-robust Language-Image Pre-training](https://www.bilibili.com/video/BV1Xv4y1i7HA/) | | | | | 279 |
+| [Localizing objects with self-supervised transformer and no labels](https://www.bilibili.com/video/BV1p24y1i7Uq/) | | | | | 278 |
 | [Unsupervised Object Detection with LiDAR Clues](https://www.bilibili.com/video/BV1ye4y1V7Z6/) | | | | | 277 |
 | [LEAVES: Learning Views for Time-Series Data in Contrastive Learning](https://www.bilibili.com/video/BV1zW4y1V7h4/) | | | | | 276 |
 | [Tip-Adapter: Training-free Adaption CLIP for Few-shot Classification](https://www.bilibili.com/video/BV1h44y1d78e/) | | | | | 275 |
