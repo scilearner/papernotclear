@@ -28,7 +28,16 @@
 
 | 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
-| | | | | | 280 |
+| | | | | | 289 |
+| | | | | | 288 |
+| | | | | | 287 |
+| | | | | | 286 |
+| | | | | | 285 |
+| | | | | | 284 |
+| | | | | | 283 |
+| | | | | | 282 |
+| [LiT 和 CiT 训练CLIP using locked-image encoder and effective data](https://www.bilibili.com/video/BV1B84y1a7Hz/) | | | | | 281 |
+| [Improving Generalization in Federated Learning by Seeking Flat Minima](https://www.bilibili.com/video/BV1G8411K7L4/) | | | | | 280 |
 | [NLIP: Noise-robust Language-Image Pre-training](https://www.bilibili.com/video/BV1Xv4y1i7HA/) | | | | | 279 |
 | [Localizing objects with self-supervised transformer and no labels](https://www.bilibili.com/video/BV1p24y1i7Uq/) | | | | | 278 |
 | [Unsupervised Object Detection with LiDAR Clues](https://www.bilibili.com/video/BV1ye4y1V7Z6/) | | | | | 277 |
