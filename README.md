@@ -33,9 +33,9 @@
 | | | | | | 287 |
 | | | | | | 286 |
 | | | | | | 285 |
-| | | | | | 284 |
-| | | | | | 283 |
-| | | | | | 282 |
+| [Unsupervised Brain Anomaly Detection and Segmentation with Transformers](https://www.bilibili.com/video/BV1JP4y1y7mm/ "【读论文】284 Unsupervised Brain Anomaly Detection and Segmentation with Transformers") | | | | | 284 |
+| [Unsupervised Person Re-identification via Multi-label Classification](https://www.bilibili.com/video/BV1ev4y1y7gB/ "【读论文】283 Unsupervised Person Re-identification via Multi-label Classification") | | | | | 283 |
+| [CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection](https://www.bilibili.com/video/BV12G4y1y7eb/) | | | | | 282 |
 | [LiT 和 CiT 训练CLIP using locked-image encoder and effective data](https://www.bilibili.com/video/BV1B84y1a7Hz/) | | | | | 281 |
 | [Improving Generalization in Federated Learning by Seeking Flat Minima](https://www.bilibili.com/video/BV1G8411K7L4/) | | | | | 280 |
 | [NLIP: Noise-robust Language-Image Pre-training](https://www.bilibili.com/video/BV1Xv4y1i7HA/) | | | | | 279 |
