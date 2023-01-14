@@ -24,23 +24,12 @@
 同样可用 链接：[https://pan.baidu.com/s/1fTQnIGhQ3hcvjlDrM4NNFA](https://pan.baidu.com/s/1fTQnIGhQ3hcvjlDrM4NNFA)
 提取码：ks3c
 
+方向都没有， 看这些有什么用， 记不住了
 
-
-| 论文名| Bilibili| Youtube| Arxiv| 博客 | 序号   |
+| 论文名 | Bilibili | Youtube | Arxiv | 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
-| | | | | | 300 |
-| | | | | | 299 |
-| | | | | | 298 |
-| | | | | | 297 |
-| | | | | | 296 |
-| | | | | | 295 |
-| | | | | | 294 |
-| | | | | | 293 |
-| | | | | | 292 |
-| | | | | | 291 |
-| | | | | | 290 |
-|  [Fast RCNN](https://www.bilibili.com/video/BV14e4y1g7Bd/) , [Faster RCNN](https://www.bilibili.com/video/BV1x24y1C7m8/) , [Mask RCNN](https://www.bilibili.com/video/BV1pD4y1v7LT/) 胡说八道 | | | | | 289 |
-| [BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling](https://www.bilibili.com/video/BV1id4y1L7td/)   | | | | | 288 |
+| PAUSE | | | | | 289 |
+| [Fast RCNN](https://www.bilibili.com/video/BV14e4y1g7Bd/) , [Faster RCNN](https://www.bilibili.com/video/BV1x24y1C7m8/) , [Mask RCNN](https://www.bilibili.com/video/BV1pD4y1v7LT/) 胡说八道   | | | | | 288 |
 | [Training Interpretable CNN by Differentiating Class-specific Filters](https://www.bilibili.com/video/BV1RA411d7uV/) | | | | | 287 |
 | [Unsupervised Extreme Multi Label Classification of Stack Overflow Posts](https://www.bilibili.com/video/BV16G4y1A7Wd/) | | | | | 286 |
 | [PiCIE Unsupervised Semantic Segmentation using clustering](https://www.bilibili.com/video/BV1F84y1h7KW/) | | | | | 285 |
