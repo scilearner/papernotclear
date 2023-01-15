@@ -28,7 +28,7 @@
 
 | 论文名 | Bilibili | Youtube | Arxiv | 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
-| PAUSE | | | | | 289 |
+| [Towards the Detection of Diffusion Model Deepfakes](https://www.bilibili.com/video/BV1CW4y137HK/) | | | | | 289 |
 | [Fast RCNN](https://www.bilibili.com/video/BV14e4y1g7Bd/) , [Faster RCNN](https://www.bilibili.com/video/BV1x24y1C7m8/) , [Mask RCNN](https://www.bilibili.com/video/BV1pD4y1v7LT/) 胡说八道   | | | | | 288 |
 | [Training Interpretable CNN by Differentiating Class-specific Filters](https://www.bilibili.com/video/BV1RA411d7uV/) | | | | | 287 |
 | [Unsupervised Extreme Multi Label Classification of Stack Overflow Posts](https://www.bilibili.com/video/BV16G4y1A7Wd/) | | | | | 286 |
