@@ -28,6 +28,17 @@
 
 | 论文名 | Bilibili | Youtube | Arxiv | 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
+|  | | | | | 300 |
+|  | | | | | 299 |
+|  | | | | | 298 |
+|  | | | | | 297 |
+|  | | | | | 296 |
+|  | | | | | 295 |
+|  | | | | | 294 |
+|  | | | | | 293 |
+| [Projected GANs Converge Faster](https://www.bilibili.com/video/BV1UK411r7p1/) | | | | | 292 |
+| [Deep Leakage from Gradients](https://www.bilibili.com/video/BV1HG4y1w7DN/) | | | | | 291 |
+| [D3VAE: Generative Time Series Forecasting Diffusion,Disentangle](https://www.bilibili.com/video/BV1ZK411C721/) | | | | | 290 |
 | [Towards the Detection of Diffusion Model Deepfakes](https://www.bilibili.com/video/BV1CW4y137HK/) | | | | | 289 |
 | [Fast RCNN](https://www.bilibili.com/video/BV14e4y1g7Bd/) , [Faster RCNN](https://www.bilibili.com/video/BV1x24y1C7m8/) , [Mask RCNN](https://www.bilibili.com/video/BV1pD4y1v7LT/) 胡说八道   | | | | | 288 |
 | [Training Interpretable CNN by Differentiating Class-specific Filters](https://www.bilibili.com/video/BV1RA411d7uV/) | | | | | 287 |
@@ -63,7 +74,7 @@
 | [Score-based Generative Modeling in Latent Space](https://www.bilibili.com/video/BV18e411G7R7/) | | | | | 257 |
 | [DiffuseVAE Controllable and High-Fidelity Generation via Latent](https://www.bilibili.com/video/BV1pK411U7zq/) | | | | | 256 |
 | [All are Worth Words: a ViT Backbone for Score-based Diffusion Models](https://www.bilibili.com/video/BV1Fe4y1U7uP/) | | | | | 255 |
-| | | | | | 254 |
+| [Regularizing Class-wise Predictions via Self-knowledge Distillation](https://www.bilibili.com/video/BV1uh411s7qZ/) | | | | | 254 |
 | [How to Train Vision Transformer on Small-scale Datasets](https://www.bilibili.com/video/BV1Ce4y1v7Yr "【读论文】253 How to Train Vision Transformer on Small-scale Datasets") | | | | | 253 |
 | [Dual Contradistinctive Generative Autoencoder](https://www.bilibili.com/video/BV1KW4y1J7ny/) | | | | | 252 |
 | [Improving Diffusion Model Efficiency Through Patching](https://www.bilibili.com/video/BV1TR4y1o7C9/) | | | | | 251 |
@@ -146,8 +157,8 @@
 | [VAEBM: Variational Autoencoders and Energy-based Models](https://www.bilibili.com/video/BV1gg411c7Pz/) | | | |  | 174 |
 | [On Separability of Self-Supervised Representations](https://www.bilibili.com/video/BV1Vf4y1A7ee/) | | | |  | 173 |
 | [Revisiting Knowledge Distillation via Label Smoothing Regularization](https://www.bilibili.com/video/BV1L3411q7wg/) | | | |  | 172 |
-| [Regularizing Class-wise Predictions via Self-knowledge Distillation](https://www.bilibili.com/video/BV1uh411s7qZ/) | | | |  | 171 |
-| [Be Your Own Teacher: Improve CNN via Self Distillation](https://www.bilibili.com/video/BV1Xq4y1U7Vs/) | | | |  | 170 |
+| [Be Your Own Teacher: Improve CNN via Self Distillation](https://www.bilibili.com/video/BV1Xq4y1U7Vs/) | | | |  | 171 |
+| [Do Deep Generative Models Know What They Don't Know?](https://www.bilibili.com/video/BV1u44y1h7oD/ "【读论文】170 Do Deep Generative Models Know What They Don't Know?") | | | |  | 170 |
 | 以下删除过   | | | | | |
 | Bayesian Deep Learning and a Probabilistic Perspective of Generalization | | | |  | 169 |
 | Rethink Image Mixture for Unsupervised Visual Representation Learning | | | |  | 168 |
