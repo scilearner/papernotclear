@@ -35,7 +35,7 @@
 |  | | | | | 296 |
 |  | | | | | 295 |
 |  | | | | | 294 |
-|  | | | | | 293 |
+| [Ensembling Off-the-shelf Models for GAN Training](https://www.bilibili.com/video/BV1bD4y1H7DE/)  | | | | | 293 |
 | [Projected GANs Converge Faster](https://www.bilibili.com/video/BV1UK411r7p1/) | | | | | 292 |
 | [Deep Leakage from Gradients](https://www.bilibili.com/video/BV1HG4y1w7DN/) | | | | | 291 |
 | [D3VAE: Generative Time Series Forecasting Diffusion,Disentangle](https://www.bilibili.com/video/BV1ZK411C721/) | | | | | 290 |
