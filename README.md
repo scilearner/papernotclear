@@ -33,7 +33,7 @@
 |  | | | | | 298 |
 |  | | | | | 297 |
 |  | | | | | 296 |
-|  | | | | | 295 |
+| [Pix2seq: A Language Modeling Framework for Object Detection](https://www.bilibili.com/video/BV1VY411X7yx/) | | | | | 295 |
 | [Knowledge-Grounded Dialogue Generation w a Unified Knowledge Representation](https://www.bilibili.com/video/BV1tP4y167ED/) | | | | | 294 |
 | [Ensembling Off-the-shelf Models for GAN Training](https://www.bilibili.com/video/BV1bD4y1H7DE/)  | | | | | 293 |
 | [Projected GANs Converge Faster](https://www.bilibili.com/video/BV1UK411r7p1/) | | | | | 292 |
