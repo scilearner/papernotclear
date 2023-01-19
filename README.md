@@ -32,7 +32,7 @@
 |  | | | | | 299 |
 |  | | | | | 298 |
 |  | | | | | 297 |
-|  | | | | | 296 |
+| [FP-DETR: Detection Transformer Advanced by Fully Pre-training 目标检测思路 只用DETR编码器加 prompt tuning](https://www.bilibili.com/video/BV1oY4y1Z7Pw/)  | | | | | 296 |
 | [Pix2seq: A Language Modeling Framework for Object Detection](https://www.bilibili.com/video/BV1VY411X7yx/) | | | | | 295 |
 | [Knowledge-Grounded Dialogue Generation w a Unified Knowledge Representation](https://www.bilibili.com/video/BV1tP4y167ED/) | | | | | 294 |
 | [Ensembling Off-the-shelf Models for GAN Training](https://www.bilibili.com/video/BV1bD4y1H7DE/)  | | | | | 293 |
