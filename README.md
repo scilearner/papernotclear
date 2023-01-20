@@ -29,7 +29,7 @@
 | 论文名 | Bilibili | Youtube | Arxiv | 博客 | 序号   |
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
 |  | | | | | 300 |
-|  | | | | | 299 |
+| [Towards Process-Oriented Question Generation meets Education needs](https://www.bilibili.com/video/BV13y4y1d7gT/) | | | | | 299 |
 | [FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning](https://www.bilibili.com/video/BV1214y1M7yC/) | | | | | 298 |
 | [Guiding Energy-based Models via Contrastive Latent Variables](https://www.bilibili.com/video/BV1QA411R7NQ/)  | | | | | 297 |
 | [FP-DETR: Detection Transformer Advanced by Fully Pre-training 目标检测思路 只用DETR编码器加 prompt tuning](https://www.bilibili.com/video/BV1oY4y1Z7Pw/)  | | | | | 296 |
