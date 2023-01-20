@@ -30,8 +30,8 @@
 | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------- | ---- | ---------------- |
 |  | | | | | 300 |
 |  | | | | | 299 |
-|  | | | | | 298 |
-|  | | | | | 297 |
+| [FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning](https://www.bilibili.com/video/BV1214y1M7yC/) | | | | | 298 |
+| [Guiding Energy-based Models via Contrastive Latent Variables](https://www.bilibili.com/video/BV1QA411R7NQ/)  | | | | | 297 |
 | [FP-DETR: Detection Transformer Advanced by Fully Pre-training 目标检测思路 只用DETR编码器加 prompt tuning](https://www.bilibili.com/video/BV1oY4y1Z7Pw/)  | | | | | 296 |
 | [Pix2seq: A Language Modeling Framework for Object Detection](https://www.bilibili.com/video/BV1VY411X7yx/) | | | | | 295 |
 | [Knowledge-Grounded Dialogue Generation w a Unified Knowledge Representation](https://www.bilibili.com/video/BV1tP4y167ED/) | | | | | 294 |
