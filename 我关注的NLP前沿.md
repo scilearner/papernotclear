@@ -26,7 +26,6 @@
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models  2022.01.28 https://arxiv.org/abs/2201.11903
 - Large Language Models are Zero-Shot Reasoners 2022.05.24 https://arxiv.org/abs/2205.11916
 - Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback 2023.02.24 https://arxiv.org/abs/2302.12813
-- Context-faithful Prompting for Large Language Models 2023.03.20 https://arxiv.org/abs/2303.11315
 - Reflexion an autonomous agent with dynamic memory and self-reflection 2023.03.20 http://arxiv.org/abs/2303.11366
 
 
@@ -43,8 +42,13 @@
 
 ### 感觉没啥意思的
 
-- Self-Consistency Improves Chain of Thought Reasoning in Language Models 2022.03.21 https://arxiv.org/abs/2203.11171 对多次输出的一个投票、少数服从多数
-- Ask Me Anything: A simple strategy for prompting language models 2022.10.05 https://arxiv.org/abs/2210.02441 -- 不是 0-shot， 感觉局限性比较大， 读起来也不容易。 生成 QA格式的提示prompts， 多组 prompts 的结果 用 weak supervision WS 整合，而不是简单投票。
-- Large Language Models Can Self-Improve 2022.10.20 https://arxiv.org/abs/2210.11610  --  只在PaLM 540B上验证， 就相当于 半监督学习， 加入一堆无标签数据、用语言模型赋上伪标签， 再用来微调
-- 
+- Self-Consistency Improves Chain of Thought Reasoning in Language Models 2022.03.21 https://arxiv.org/abs/2203.11171   
+    对多次输出的一个投票、少数服从多数
+- Ask Me Anything: A simple strategy for prompting language models 2022.10.05 https://arxiv.org/abs/2210.02441   
+    不是 0-shot， 感觉局限性比较大， 读起来也不容易。 生成 QA格式的提示prompts， 多组 prompts 的结果 用 weak supervision WS 整合，而不是简单投票。
+- Large Language Models Can Self-Improve 2022.10.20 https://arxiv.org/abs/2210.11610    
+    只在PaLM 540B上验证， 就相当于 半监督学习， 加入一堆无标签数据、用语言模型赋上伪标签， 再用来微调
+- Context-faithful Prompting for Large Language Models 2023.03.20 https://arxiv.org/abs/2303.11315
+    针对当前语料与LM语料学到的知识之间的 Knowledge Conflict 和 Prediction with Abstention 提出几个特定prompt提示模板
+- More
 
