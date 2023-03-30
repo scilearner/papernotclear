@@ -24,9 +24,19 @@
 所以更关注 chain-of-thoughts 这种不依赖梯度的
 
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models  2022.01.28 https://arxiv.org/abs/2201.11903
-- Self-Consistency Improves Chain of Thought Reasoning in Language Models 2022.03.21 https://arxiv.org/abs/2203.11171 
 - Large Language Models are Zero-Shot Reasoners 2022.05.24 https://arxiv.org/abs/2205.11916
 - Ask Me Anything: A simple strategy for prompting language models 2022.10.05 https://arxiv.org/abs/2210.02441
 - Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback 2023.02.24 https://arxiv.org/abs/2302.12813
 - Context-faithful Prompting for Large Language Models 2023.03.20 https://arxiv.org/abs/2303.11315
 - Reflexion an autonomous agent with dynamic memory and self-reflection 2023.03.20 http://arxiv.org/abs/2303.11366
+
+
+
+| 方法缩写 | 一句话概述 | 其他(可选) | 
+| --------- | -------- | ----------- |
+| few-shot CoT          | 标准提示加入中间推理过程 <input, CoT, output>， 手工选定             | |
+| self-consistency CoT  |  用CoT多次生成结果进行投票， 少数服从多数                            |   |
+| zero-shot CoT         |  用 Let's think step-by-step 生成推理过程的文本， 进行两阶段推理生成  |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
