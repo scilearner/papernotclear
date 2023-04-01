@@ -32,9 +32,14 @@
 
 | 方法缩写 | 一句话概述 | 其他(可选) | 
 | --------- | -------- | ----------- |
-| few-shot CoT          | 标准提示加入中间推理过程 <input, CoT, output>， 手工选定             | |
-| self-consistency CoT  |  用CoT多次生成结果进行投票， 少数服从多数                            |   |
-| zero-shot CoT         |  用 Let's think step-by-step 生成推理过程的文本， 进行两阶段推理生成  |   |
+| few-shot CoT             | 标准提示加入中间推理过程 <input, CoT, output>， 手工选定             | |
+| self-consistency CoT     |  用CoT多次生成结果进行投票， 少数服从多数                            |   |
+| zero-shot CoT            |  用 Let's think step-by-step 生成推理过程的文本， 进行两阶段推理生成  |   |
+| Context-faithful Prompt  |  强调给定的上下文， in one's opinion, based on given text, 和 instruction |   |
+| Ask Me Anything          |  用 不知道怎么来的claim 生成 问题， 再回答问题， 加上 weak supervision ， 或者使用 summarize 总结 |   |
+| WebGPT                   |  类似 InstructGPT， 监督学习训练 上网命令， 再用检索的数据 用人工训练强化学习  |   |
+|   |   |   |
+|   |   |   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
