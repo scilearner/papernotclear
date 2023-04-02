@@ -7,6 +7,14 @@
 
 应该主要关注 语言模型 Large Language Model - Prompt - chain of thoughts 这个路线
 
+后面追踪前沿进展， 应该容易得多了。
+
+## 问题
+
+- 数据、任务完全不熟
+- 模型没用过， ChatGPT 试过一下， 大半时候卡死， 开源的没跑过
+
+
 ## LLM
 
 - GPT系列
