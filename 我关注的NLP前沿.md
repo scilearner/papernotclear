@@ -15,6 +15,22 @@
 - 模型没用过， ChatGPT 试过一下， 大半时候卡死， 开源的没跑过
 
 
+由于大模型实在太大了，  反向传播更新prompt 大概成本上也不能接受——只能访问API的话，也得不到梯度
+
+所以更关注 chain-of-thoughts 这种不依赖梯度的
+
+
+## 想看
+
+- LoRa: Low-Rank Adaptation of Large Language Models   https://arxiv.org/abs/2106.09685
+- LLaMA-Adapter Efficient Fine-tuning of Language Models with Zero-init Attention  https://arxiv.org/abs/2303.16199
+
+
+
+# 已看
+
+
+
 ## LLM
 
 - GPT系列
@@ -27,16 +43,11 @@
 
 ## prompt
 
-由于大模型实在太大了，  反向传播更新prompt 大概成本上也不能接受——只能访问API的话，也得不到梯度
-
-所以更关注 chain-of-thoughts 这种不依赖梯度的
-
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models  2022.01.28 https://arxiv.org/abs/2201.11903
 - Large Language Models are Zero-Shot Reasoners 2022.05.24 https://arxiv.org/abs/2205.11916
 - Toolformer: Language Models Can Teach Themselves to Use Tools 2023.02.09  https://arxiv.org/abs/2302.04761
 - Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback 2023.02.24 https://arxiv.org/abs/2302.12813
 - Reflexion an autonomous agent with dynamic memory and self-reflection 2023.03.20 http://arxiv.org/abs/2303.11366
-
 
 
 | 方法缩写 | 一句话概述 | 其他(可选) | 
