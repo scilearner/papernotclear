@@ -1,8 +1,21 @@
 # 深度学习论文
 
-方向都没有， 看这些有什么用， 记不住了
 
-[Think不Clear废话系列](https://github.com/scilearner/papernotclear/blob/master/old_thinknotclear.md) 大概是不再更新了， 而且又删了一些
+[Think不Clear废话系列](https://github.com/scilearner/papernotclear/blob/master/old_thinknotclear.md) 以前的视频系列大概是不再更新了
+
+[B站Think不Clear](https://space.bilibili.com/17529417/video)   [Youtube(PaperThinkNotClear)](https://www.youtube.com/channel/UCwyMgDylnGQ-Wf4N00RmWJw)  
+
+[西瓜视频](https://www.ixigua.com/home/110050360886)  因标题字数限制，我基本都改成中文名了， 所以， 我自己都没法搜索到目标视频
+
+[幻灯片 Slides on OneDrive](https://1drv.ms/u/s!AgCFFlwzHuH8jFTeW-hXFpY9jEs3?e=JqmxFI)  可能没完全同步。
+
+百度网盘 baidu pan  PPT，两个好像都能用
+
+链接 [https://pan.baidu.com/s/1e3lh08SE6mKg3E7loktQUA](https://pan.baidu.com/s/1e3lh08SE6mKg3E7loktQUA)
+提取码：e0gn
+
+同样可用 链接：[https://pan.baidu.com/s/1fTQnIGhQ3hcvjlDrM4NNFA](https://pan.baidu.com/s/1fTQnIGhQ3hcvjlDrM4NNFA)
+提取码：ks3c
 
 现在是 **放音乐系列**
 
